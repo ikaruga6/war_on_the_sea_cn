@@ -1,0 +1,21 @@
+﻿Image=
+Image=
+Image=
+<b>Campaign Summary</b>
+Use <KEY:CampSummary> or button in toolbar to open the Campaign Summary.
+Here you may SAVE or QUIT a campaign as well as view information about the current situation.
+
+Information is provided on 6 tabs, <KEY:LeftMouse> each to explore its contents;
+OBJECTIVES: Outlines what is required to win the campaign.
+LOCATIONS: lists all map locations along with port and airfield levels, troops and resources.
+	Bars show friendly/enemy troops at a location. Gray bars indicate 0 troops at a neutral location.
+SEA: A roster of all ships currently under your command.
+REPAIR: lists friendly ships currently undergoing repair and number of days required to complete repairs.
+LOSSES: lists all friendly ships lost during the conflict as well as total friendly aircraft losses.
+ENEMY LOSSES: as above, but for enemy ships and aircraft.
+
+<KEY:LeftMouse> the buttons at lower left to familiarize yourself with the map icons and campaign setup;
+MAP KEY: Legend of all icons and colors displayed on the map.
+RULES: Summary of the rules and parameters for a particular campaign.
+
+Use CONTINUE button or X in upper right to close the Campaign Summary.

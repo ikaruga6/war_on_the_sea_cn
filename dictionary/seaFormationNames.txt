@@ -1,0 +1,6 @@
+﻿Line Ahead
+Line Abreast
+2 Column Left
+2 Column Right
+3 Column
+Circular

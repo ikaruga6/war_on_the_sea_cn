@@ -1,0 +1,21 @@
+﻿Image={"path":"interface/tutorial/dcStatusVul.png","pos":{"x":258.0,"y":0.0}}
+Image=
+Image=
+<b>Status: Efficiency and Vulnerable</b>
+Efficiency
+Impacts repair/reload times and solution calculations.
+Decreased by 1% for each offline, flooded or burning compartment.
+Decreased by 15% if the command centre is offline or destroyed, namely the Bridge
+or Control Room for submarines.
+
+
+Vulnerable
+A penalty applied to time to extinguishing fires and increases fire spread chance.
+- Carrier performing Air Operations: 60%
+- Cargo on board: Troops (20%), Supplies (30%), Engineering (40%), Fuel (80%)
+<i>During a Dynamic Campaign, a carrier on cooldown after launching or landing aircraft
+is considered to be performing Air Operations.</i>
+
+If present, the vulnerable penalty is displayed at bottom of Status section.
+In the example shown here, an oiler carrying fuel requires 180% the time to extinguish fires and fires have a 180% chance to spread.
+When present, mouse over the Vulnerable text to display the cause of the penalty, in this example it would display "Fuel".

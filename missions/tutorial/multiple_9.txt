@@ -1,0 +1,19 @@
+﻿Image=
+Image=
+Image=
+<b>Orders Panel</b>
+Open the Orders Panel using (<KEY:Orders>) or the icon in the Main Toolbar.
+
+CONTROLS
+Manage navigation and submarine specific commands here; only affect Current Unit.
+
+FORMATION
+Manage formation type, spacing and whether to leave a formation for ALL SELECTED UNITS.
+
+COMBAT - Orders issued apply to ALL SELECTED UNITS.
+ATTACK/CEASE - start firing at current target or stop firing.
+Fire At Will - Ships will automatically manage gunnery and engage enemy ships (or dogfight for fighters).
+Auto Fire Flak - dual purpose guns automatically switch to aircraft in range.
+Evade Hazards - automatically avoid other ships and land.
+Smoke - lay or cease laying smoke screens.
+RADAR/SONAR - cease radar/active sonar for all selected units.

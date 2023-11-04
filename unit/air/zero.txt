@@ -1,0 +1,1 @@
+﻿{"unitName":"Zero","weaponDescriptions":["Guns|2x 20mm Cannon","|2x Machine Gun"],"payloadDisplayNames":["None"],"payloadIndexes":["-1"],"endurance":[1]}

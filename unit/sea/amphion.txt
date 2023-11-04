@@ -1,0 +1,1 @@
+﻿{"unitName":"Perth","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["Hobart","Perth","Sydney"],"instancesInClass":["hobart","perth","sydney"]}

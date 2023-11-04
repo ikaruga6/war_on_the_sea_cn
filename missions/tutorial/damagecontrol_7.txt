@@ -1,0 +1,18 @@
+﻿Image=
+Image=
+Image=
+<b>Damage Control Parties</b>
+A ship will have one or more damage control parties as shown under Status.
+
+Assigning a damage control party to a compartment or region of a ship will in the following order;
+1) If burning: Extinguish fire after timer expires
+2) If flooded: Remove flooding after timer expires
+3) If offline: Restore subsystem after timer expires
+4) If damaged: Restore integrity to 100%
+5) Party automatically returned to available list
+Assuming a 2 minute timer for fire, flooding and repairs: a damaged, burning, flooded region with the subsystem offline would take 8 minutes to restore. If that region takes additional damage (not from burning) or party is manually reassigned elsewhere, timer for that step is restarted.
+
+A party decreases the chance of fire or flooding to spread into their region by 50%.
+<i>Remember that a party can only fight fires in a destroyed region, it cannot be repaired, it is permanently offline and if within the hull, counts as permanently flooded.</i>
+
+On clicking next, an explosion and fires at the rear of the ship will be simulated.

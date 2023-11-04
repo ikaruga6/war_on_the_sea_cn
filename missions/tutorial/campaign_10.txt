@@ -1,0 +1,18 @@
+﻿Image={"path":"interface/tutorial/autoScout.png","pos":{"x":274.0,"y":66.0}}
+Image={"path":"interface/images/ui/repeatPath.png","pos":{"x":-42.0,"y":-11.0}}
+Image=
+<b>Automated Scouting / Repeat Path</b>
+Aircraft can be automated to continously repeat a search pattern around their home location.
+<KEY:LeftMouse> one or more waypoint icons to place waypoints relative to the taskforce.
+<KEY:LeftMouse> centre X icon to clear waypoints.
+<KEY:LeftMouse> circular arrows to set clockwise or counter-clockwise path (at current range indicated).
+Use slider at bottom to set range of waypoints from centre.
+
+Repeat Path
+The repeat path button can be toggled to order
+Air or Sea groups to repeat any plotted course.
+If a path is repeating, it is highlighted in bright yellow.
+
+Ships will repeat their path indefinately, while aircraft will return to home base at nightfall, then automatically re-launch the folllowing morning and resume their path.
+
+Land locations automatically detect enemy ships or aircraft within a radius determined by the port and airfield rank as well as weather and time of day. Shaded circles on map show maximum detection ranges with aircraft operational outer) and without aircraft (inner).

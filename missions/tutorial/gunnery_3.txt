@@ -1,0 +1,17 @@
+﻿Image=
+Image=
+Image=
+<b>Firing Orders</b>
+<i>Remember FIRING ORDERS DO NOT SHOW WHAT GUNS ARE CURRENTLY DOING, but rather what order you wish to give to the guns.
+Mouse over individual gun turret icons to see what they are currently doing.</i>
+
+AT WILL
+Enter Fire At Will mode (as described in Tutoral 1). Main and secondary guns are automatically managed and engage enemy ships.
+
+MAN
+Manual fire. Position guns fire at is determined manually by <KEY:LeftMouse> of the aim marker on the map. Only guns with a firing arc that can reach the position will fire, others turn towards position until it enters their arc when they will automatically fire. If the position is beyond maximum range, guns will only fire once position is within range.
+
+When MAN setting is off, guns fire at the solution for the current target. Controlled unit must have a target in order to fire.
+
+SPOT
+Spotting fire. Gun turret will not fire again until shells reach their destination. Splashes are observed to determine the correct range to target giving a bonus to the solution calculation. Spotting can only be used when firing at a target to help improve the solution.

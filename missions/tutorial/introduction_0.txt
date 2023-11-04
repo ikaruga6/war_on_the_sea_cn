@@ -1,0 +1,21 @@
+﻿6
+Image={"path":"interface/tutorial/lockUI.png","pos":{"x":230.0,"y":60.0}}
+Image={"path":"interface/tutorial/unitInfo.png","pos":{"x":250.0,"y":-70.0}}
+Image=
+<b>Introduction to War on the Sea</b>
+Experience strategic and tactical naval action as you take command of ships and aircraft from WWII.
+If new to the game it is recommended to play:
+	1) Tutorial missions to learn the game
+	2) Single missions to hone your skills
+	3) Campaigns
+
+<KEY:LeftMouse> padlock icon next to Main Toolbar to lock/unlock UI, then <KEY:LeftMouse> and drag this panel to move where desired.
+References to key commands or mouse buttons are shown in <color=#caa809>AMBER</color>.
+End exercise by <KEY:LeftMouse> Menu icon in Main Toolbar at bottom centre (<KEY:Menu>) to open Menu panel then use QUIT and CONFIRM buttons.
+
+For this training mission you are in command of USS Porter, a Porter class destroyer.
+Name, speed, heading of your ship is shown above Main Toolbar at bottom centre.
+- An old oiler (1.) is to the north as a target for gunnery practice.
+- An old oiler (2.) is to the south as a target for torpedo practice.
+
+<KEY:LeftMouse> Next arrow in the title bar above to continue.

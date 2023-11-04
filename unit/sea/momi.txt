@@ -1,0 +1,1 @@
+﻿{"unitName":"Momi","namesInClass":["Momi","Kaya","Nashi","Take","Kaki","Tsuga","Nire","Kuri","Kiku","Aoi","Hagi","Fuji","Susuki","Hishi","Hasu","Warabi","Tade","Sumire","Tsuta","Ashi","Yomogi"],"instancesInClass":["momi","kaya","nashi","take","kaki","tsuga","nire","kuri","kiku","aoi","hagi","fuji","susuki","hishi","hasu","warabi","tade","sumire","tsuta","ashi","yomogi"]}

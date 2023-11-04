@@ -1,0 +1,15 @@
+﻿Image={"path":"interface/tutorial/dcIcons1.png","pos":{"x":-314.0,"y":4.0}}
+Image=
+Image=
+<b>Icons</b>
+
+Icons on the Hull & Deck Views indicate the status of a compartment or subsystem:
+
+
+					Flooded - Hull only. The compartment is flooded or taking on water. Too many flooded compartments will cause a ship to
+					sink or capsize.
+
+					Burning - The compartment or subsystem is on fire. Burning causes damage over time and fires may spread to
+					neighbouring areas (including from hull to deck and deck to hull).
+
+					Repairing - A damage control party is in the compartment or subsystem and is repairing it.

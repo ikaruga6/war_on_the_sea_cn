@@ -1,0 +1,18 @@
+﻿Image=
+Image=
+Image=
+<b>Additional Camera Controls</b>
+Chase Cam
+Use <KEY:ChaseCam> to toggle chase camera. Chase camera is immediately cancelled if moving the camera left or right.
+
+Target Padlock
+Target USS Porter (<KEY:TargetMode> and <KEY:LeftMouse> on Porter icon on map).
+Use <KEY:FollowCam> or button in Secondary Toolbar to lock the camera such that it always looks at the Controlled Unit's target.
+<i>Padlock camera is immediately cancelled if moving the camera left or right.</i>
+
+Freeze Camera
+Use <KEY:FreezeCamera> to force the camera to stop or start following a unit.
+
+When ready, end the mission;
+1) Either <KEY:LeftMouse> on the Menu button in the toolbar or use <KEY:Menu>.
+2) <KEY:LeftMouse> on the QUIT and CONFIRM buttons to end the mission.

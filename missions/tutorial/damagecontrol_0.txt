@@ -1,0 +1,19 @@
+﻿10
+Image={"path":"interface/tutorial/dcStatus.png","pos":{"x":258.0,"y":0.0}}
+Image=
+Image=
+<b>Damage Control</b>
+Use <KEY:DamageControl> or the toolbar button to open (only available for ships and submarines).
+Separated into 3 sections:
+
+1) Status
+Lists damage/flooding severity, speed/turn rates, efficiency and number of damage control parties.
+
+COUNTERFLOOD Toggle: If ON, <KEY:LeftMouse> on a hull compartment will flood it with water.
+Automatic damage control is deactivated when counterflooding compartments.
+
+AUTO DC: If ON, damage control parties will automatically perform repairs
+(including counter-flooded compartments).
+
+<i><KEY:LeftMouse> on a compartment will assign a free damage control party to it
+or if the COUNTERFLOOD toggle is on, flood it with water.</i>

@@ -1,0 +1,21 @@
+﻿4
+Image=
+Image=
+Image=
+<b>Custom Battles</b>
+The Custom Battle editor is used to author custom scenarios which can then be played out and or saved and loaded for later use.
+<KEY:LeftMouse> and drag this tutorial panel to the lower right of screen to reveal the ENGAGEMENT SETTINGS panel.
+
+ENGAGEMENT SETTINGS
+Use button in toolbar or (<KEY:CustomSummary>) to open/close this panel.
+Date, time, weather and sea state may be modified using the various dropdowns.
+<KEY:LeftMouse> the Terrain checkbox to enable/disable terrain. The Approximate Decimal Degrees indicates where the battle occurs.
+Only world terrain surrounding the Pacific Ocean is currently available.
+Battles fought with terrain disabled occur in open water.
+
+Other buttons perform the following:
+Play side toggle (blue or red) to choose which side is controlled in combat.
+TACTICAL - Enter the 3D world and play out the battle.
+SAVE / LOAD - Save / load the battle. Games saved during combat may be loaded by SINGLE BATTLE / LOAD from the main menu.
+QUIT / CONFIRM - Leave the Custom Battle editor (and end this tutorial).
+CLEAR ALL - Delete all unit groups currently placed on the map.

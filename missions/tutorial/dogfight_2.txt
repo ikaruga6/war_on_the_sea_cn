@@ -1,0 +1,20 @@
+﻿Image=
+Image=
+Image=
+<b>OPTIONAL Manual Attacks</b>
+Your pilots are competent in combat, but they are not aces. Manual control in can let you get in close for quick kills, save valuable ammunition and avoid flying in front of the enemy where they can shoot your aircraft down.
+
+Repeat this training exercise, skipping Step 1.
+Try to shoot down all 3 enemy aircraft manually by doing the following:
+Use <KEY:TargetNearestAir> to target closest enemy aircraft.
+Use <KEY:FollowCam> to keep the camera focused on your target.
+Steer manually to line up your attacks.
+
+<i>If you change altitude, simply fly away and use <KEY:AttackTarget> to begin another auto-attack and bring your aircraft back to the correct altitude.
+Then steer to break the auto attack and resume manual control.</i>
+
+Practice getting behind the enemy aircraft and try to manually shoot them down using <KEY:Weap0> to start and stop firing.
+After a kill, use <KEY:TargetNearestAir> and <KEY:FollowCam> to focus on your next target.
+
+Learn to "lead" the target by firing in front of at as it flies into your stream of bullets.
+Unlike bombers, attacking fighters in actual combat will cause them to make altitude changes to evade your attacks!

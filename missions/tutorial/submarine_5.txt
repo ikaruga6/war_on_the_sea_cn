@@ -1,0 +1,14 @@
+﻿Image=
+Image=
+Image=
+<b>Anti-Submarine Warfare</b>
+Take control of USS Porter (a Porter class destroyer).
+HINT: <KEY:LeftMouse> on the map icon for this ship  or <KEY:LeftMouse> on the arrow next to its name in the Roster.
+
+Use <KEY:ActiveSonarOnOff> or Active Sonar button in Main Toolbar to switch on active sonar and begin searching for an enemy submarine.
+
+Once detected, target the enemy submarine and use <KEY:AttackTarget> or Attack button in Orders panel to begin a depth charge attack.
+
+<i>Use <KEY:SwitchUnderwater> or Switch To Underwater button on Secondary Toolbar to view the attack from below if desired.</i>
+
+Most ships (and submarines) have baffles, a blind spot to their rear where sonar cannot hear.

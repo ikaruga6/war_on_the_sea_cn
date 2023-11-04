@@ -1,0 +1,22 @@
+﻿12
+Image={"path":"interface/tutorial/campaignToolbar.png","pos":{"x":74.0,"y":82.0}}
+Image={"path":"interface/tutorial/mapFilters.png","pos":{"x":134.0,"y":40.0}}
+Image={"path":"interface/tutorial/timeBar.png","pos":{"x":162.0,"y":-59.0}}
+<b>Dynamic Campaigns</b>
+Dynamic campaigns are played on the Strategic Map where you recruit and deploy various Sea and Air units to achieve your goals.
+The major controls referred to in this tutorial are outlined below:
+
+Toolbar - Located at bottom centre.
+
+Map Filters - Located at bottom right.
+
+Time Panel - Located at bottom left.
+Displays current time, date and controls for time compression.
+
+Light meter shows 24 hr light conditions with current lighting
+at centre. Useful for determining if twilight is approaching.
+
+COMMAND POINTS shows available points to spend on
+recruitment of ships.
+
+Mouse over the various toolbar and time compression buttons to familiarize yourself with the tooltips and keyboard shortcuts.

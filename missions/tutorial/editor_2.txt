@@ -1,0 +1,21 @@
+﻿Image={"path":"interface/tutorial/formation.png","pos":{"x":131.0,"y":-47.0}}
+Image=
+Image=
+<b>Adding Sea Units</b>
+Close the WILDCAT panel by <KEY:LeftMouse> on the X button in upper right of that panel.
+Sea units are also added via the Unit Viewer. If not already open, use button in toolbar or (<KEY:CustomUnitID>) to open the Unit Viewer.
+If needed, <KEY:LeftMouse> and drag the Unit Viewer and/or tutorial panel in order to view them.
+
+<KEY:LeftMouse> Switch Sea/Air toggle at the bottom centre of Unit Viewer to switch to Sea Units.
+Use the names in class dropdown to select a specific Tambor class submarine, for example Tambor, Tautong, Thresher etc.
+<KEY:LeftMouse> Add Unit button (<KEY:UnitIDClassifyAs>) to add the specified ship to a Sea group (creates a new group if no current one).
+Individual ships are unlimited and multiples of the same ship name may be added to a group if desired (max 10 ships in a group).
+ 
+Heading & speed as well as formation and spacing for the Sea group can be modified.
+<KEY:LeftMouse> formation button to preview the positions of ships in the formation.
+
+COURSE, Blue/Red toggle and dragging Sea group icon to move it on the map are the same as for an Air group.
+
+<KEY:LeftMouse> on ship icons within the group to select or deselect them.
+REMOVE will delete all selected ships. Deleting all ships will delete the group.
+SWAP will switch the positions of 2 selected ships within the group.

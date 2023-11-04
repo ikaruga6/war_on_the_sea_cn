@@ -1,0 +1,1 @@
+﻿{"unitName":"Nagato","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["Nagato","Mutsu"],"instancesInClass":["nagato","mutsu"]}

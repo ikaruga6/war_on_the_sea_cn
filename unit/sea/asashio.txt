@@ -1,0 +1,1 @@
+﻿{"unitName":"Asashio","namesInClass":["Asashio","Ōshio","Michishio","Arashio","Asagumo","Yamagumo","Natsugumo","Minegumo","Arare","Kasumi"],"instancesInClass":["asashio","oshio","michishio","arashio","asagumo","yamagumo","natsugumo","minegumo","arare","kasumi"]}

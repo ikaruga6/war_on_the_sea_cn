@@ -1,0 +1,18 @@
+﻿Image=
+Image=
+Image=
+<b>Tracking Targets</b>
+Open Main Guns panel by either <KEY:LeftMouse> on the Main Guns button in the toolbar or use <KEY:Weap0>. Above the deck view of your ship are the two directors, Main and Alt. Directors are observation points which watch and track the current target.
+
+Select target ship
+1) Use <KEY:TargetMode> to enter Target Mode (note the mouse pointer change).
+2) While in Target Mode <KEY:LeftMouse> on the target ship map icon to set it as your target.
+
+Both directors now have the target listed and the SOL (solution) value is slowly increasing.
+In the 3D view the directors on top of the forward and rear tripod masts turn to watch the target.
+
+<KEY:LeftMouse> on Stop for the ALT director to stop tracking the target.
+
+IMPORTANT: Switching to a new target will NOT change a director's target. You must <KEY:LeftMouse> on Stop to cease tracking the current target before assigning a new one.
+
+Re-target the target ship as was done previously. Notice that both ALT and MAIN directors have the same SOL value. This is because they share the observation data.

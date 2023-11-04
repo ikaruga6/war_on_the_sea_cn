@@ -1,0 +1,14 @@
+﻿Image=
+Image=
+Image=
+<b>Unit Viewer Details</b>
+Buttons for statistics, weapons, anti-aircraft capabilities as well as sensors and armour are available.
+
+Statistics
+Images of the unit are shown along with physical size, weight, speed and crew. For sea units, the number of ships in the class and their names are available.
+
+Weapons
+Lists all available weapon systems on a ship along with detailed statistics such as range and reload times. Dual Purpose refers to guns that can shoot at both surface targets as well as aircraft. A non-dual purpose gun can shoot at surface targets only.
+
+Anti-Aircraft
+Shows the firing arcs of anti-aircraft guns.

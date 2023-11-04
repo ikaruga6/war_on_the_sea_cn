@@ -1,0 +1,1 @@
+﻿{"unitName":"New Orleans","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["New Orleans","Astoria","Minneapolis","Tuscaloosa","San Francisco","Quincy","Vincennes"],"instancesInClass":["new orleans","astoria","minneapolis","tuscaloosa","san francisco","quincy","vincennes"]}

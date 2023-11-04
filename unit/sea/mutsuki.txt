@@ -1,0 +1,1 @@
+﻿{"unitName":"Mutsuki","namesInClass":["Mutsuki","Kisaragi","Uzuki","Satsuki","Minazuki","Fumizuki","Nagatsuki","Kikuzuki","Mikazuki","Mochizuki","Yūzuki","Yayoi"],"instancesInClass":["mutsuki","kisaragi","uzuki","satsuki","minazuki","fumizuki","nagatsuki","kikuzuki","mikazuki","mochizuki","yuzuki","yayoi"]}

@@ -1,0 +1,1 @@
+﻿{"unitName":"Kongō","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["Kongō","Hiei","Kirishima","Haruna"],"instancesInClass":["kongo","hiei","kirishima","haruna"]}

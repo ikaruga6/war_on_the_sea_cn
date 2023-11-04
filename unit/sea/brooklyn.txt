@@ -1,0 +1,1 @@
+﻿{"unitName":"Brooklyn","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["Brooklyn","Philadelphia","Savannah","Nashville","Phoenix","Boise","Honolulu","St. Louis","Helena"],"instancesInClass":["brooklyn","philadelphia","savannah","nashville","pheonix","boise","honolulu","st. louis","helena"]}

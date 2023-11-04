@@ -1,0 +1,1 @@
+﻿{"unitName":"Shiratsuyu","namesInClass":["Shiratsuyu","Shigure","Murasame","Yūdachi","Harusame","Samidare","Umikaze","Yamakaze","Kawakaze","Suzukaze"],"instancesInClass":["shiratsuyu","shigure","murasame","yudachi","harusame","samidare","umikaze","yamakaze","kawakaze","suzukaze"]}

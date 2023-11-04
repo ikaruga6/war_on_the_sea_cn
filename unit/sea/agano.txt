@@ -1,0 +1,1 @@
+﻿{"unitName":"Agano","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["Agano","Noshiro","Yahagi","Sakawa"],"instancesInClass":["agano","noshiro","yhagi","sakawa"]}

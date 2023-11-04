@@ -1,0 +1,18 @@
+﻿Image=
+Image=
+Image=
+<b>Splitting Fire</b>
+Splitting fire allows guns of the main battery to fire at different targets. To demonstrate this;
+1) <KEY:LeftMouse> on the icon of the rear gun to deselect it.
+2) <KEY:LeftMouse> on the FIRE button again and <KEY:LeftMouse> on the map about 3000 yd to the west to fire forward guns in that direction.
+3) <KEY:LeftMouse> on the two forward gun icons to deselect them
+4) <KEY:LeftMouse> on the icon of the rear gun to select it.
+5) <KEY:LeftMouse> on the FIRE button again and <KEY:LeftMouse> on the map about 3000 yd to the west to fire rear gun in that direction.
+<i>Note CEASE, HOLD and FIRE commands are applied ONLY to the selected gun turrets.</i>
+
+Colored icons corresponding to HOLD or FIRE are displayed on each gun turret icon indicate the current action.
+Mouse over of a turret icon for additional information about it, including the firing arc, ammunition and current settings.
+
+Experiment with firing the various guns or aiming (HOLD) in different directions. Remember that a gun can only fire within its firing arc (shown by mouse over turret icon) and within its range. A white target position marker on the firing arc is outside of the arc.
+
+When finished CEASE firing all guns by selecting them all and using CEASE.

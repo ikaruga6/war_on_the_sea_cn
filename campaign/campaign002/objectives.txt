@@ -1,0 +1,19 @@
+﻿
+<b><size=18>OPERATION SN: GUADALCANAL</size></b>
+
+<b>August 7th 1942</b>
+A small landing force of our troops have already occupied <color=#caa809>GUADALCANAL</color> and <color=#caa809>FLORIDA ISLANDS</color>.
+Preparations should be made immediately to begin construction of a large airfield on <color=#caa809>GUADALCANAL</color>.
+Once finished, long range bombers will be free to attack Allied supply lines between America and Australia and provide air cover for the Imperial Japanese Navy to operate farther south.
+
+Your orders are to build a major airfield on <color=#caa809>GUADALCANAL</color> and clear the neighbouring islands of any hostile forces.
+
+
+You must:
+
+1) Build a rank 5 airfield on <color=#caa809>GUADALCANAL</color>
+
+2) Maintain control of:
+   - <color=#caa809>GUADALCANAL</color>
+   - <color=#caa809>FLORIDA ISLANDS</color>
+   - <color=#caa809>MALAITA</color>

@@ -1,0 +1,21 @@
+﻿Image={"path":"interface/tutorial/targetInfo.png","pos":{"x":212.0,"y":52.0}}
+Image=
+Image=
+<b>Basic Gunnery</b>
+Pan camera north to look at target ship (0 on the bearing indicator in top centre of screen).
+Use binoculars <KEY:Binoculars> to zoom in (<KEY:MouseWheel> or <KEY:ZoomIn>) on the target ship.
+
+1) Use <KEY:TargetMode> to enter Target Mode (note the mouse pointer change).
+2) While in Target Mode <KEY:LeftMouse> on ship to the north set it as your target
+(target information appears above Main Toolbar).
+3) Use <KEY:Binoculars> to leave Binoculars View.
+4) Open Main Guns panel by either <KEY:LeftMouse> on the Main Guns button in the toolbar or use <KEY:Weap0>.
+5) Press FIRE to begin firing on the target ship.
+
+<i>Note: <KEY:LeftMouse> a ship while not in Target Mode moves camera to that ship. If this occurs, simply <KEY:LeftMouse> on Porter again.
+<KEY:LeftMouse> on a map icon is equivalent to <KEY:LeftMouse> on a ship in the 3D world.
+Remember: Ship currently under your control is displayed above the Main Toolbar.</i>
+
+Experiment with the CEASE (guns return to rest position), HOLD (guns continue to aim, but stop firing) and FIRE buttons.
+Use HOLD to point all guns at target, wait several seconds then use FIRE to fire all guns at once (salvo mode).
+When ready, use next arrow to continue.

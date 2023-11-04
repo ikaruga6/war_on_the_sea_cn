@@ -1,0 +1,19 @@
+﻿Image={"path":"interface/tutorial/execute.png","pos":{"x":18.0,"y":-52.0}}
+Image=
+Image=
+<b>Managing Sea Groups</b>
+Lower right of the Sea group panel contains controls for modifying the formation, spacing and previewing it.
+The average speed, limited by slowest ship in group, is also displayed here.
+
+<KEY:LeftMouse> TACTICAL to enter the 3D world where Atlanta and Enterprise are sailing off the coast of NEW HEBRIDES as per the formation specified and their position on the strategic map. End combat to return to the strategic map.
+
+<KEY:LeftMouse> COURSE to enter navigation mode, then <KEY:LeftMouse> one or more positions on the map to place navigation waypoints. <KEY:LeftMouse> COURSE again or <KEY:Cancel> to exit navigation mode.
+Time is currently paused and later when it is accelerated, this task force will follow the waypoints specified.
+
+At bottom left are 2 buttons to execute orders for each dropdown (              ). The upper commands are for managing group setup:
+Swap Positions - Switch positions of 2 selected ships within the group.
+Split Group - Create a new sea group containing the selected ships within this group.
+Merge Groups - Move highlighted ships of this group into the closest friendly group within about 15 NM.
+Release / Repair - Remove highlighted ships from your command if within about 15 NM of home port or port of sufficient rank.
+	None, some or all COMMAND POINTS may be refunded depending on the campaign RULES.
+	Ships with any destroyed compartments enter the REPAIR list for time based on campaign RULES.

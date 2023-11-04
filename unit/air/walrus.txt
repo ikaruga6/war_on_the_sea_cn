@@ -1,0 +1,1 @@
+﻿{"unitName":"Walrus","weaponDescriptions":["Guns|2x Machine Gun"],"payloadDisplayNames":["None"],"payloadIndexes":["-1"],"endurance":[1]}

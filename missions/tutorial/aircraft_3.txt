@@ -1,0 +1,20 @@
+﻿Image={"path":"interface/tutorial/airIndependent.png","pos":{"x":0.0,"y":17.0}}
+Image=
+Image=
+<b>Attacks With Multiple Aircraft: Independent</b>
+Independent Attack
+Select ALL members of the flight and order them to attack a target.
+Aircraft will break formation, act individually, converge on the target and attack at will.
+
+
+
+
+
+
+
+
+Used for dogfights, strafing and rocket attacks or against stationary targets where spreading out the attack is not necessary.
+Be careful not to bunch up a formation making it susceptible to anti-aircraft fire or enemy fighters!
+
+<i>Effective when the flight is already in formation or if scattered.</i>
+<i>Best used with loose or spaced out formations so as not to bunch up your aircraft.</i>

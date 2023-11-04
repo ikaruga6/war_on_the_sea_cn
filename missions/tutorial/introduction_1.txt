@@ -1,0 +1,21 @@
+﻿Image={"path":"interface/tutorial/secondToolbar.png","pos":{"x":260.0,"y":-67.0}}
+Image={"path":"interface/tutorial/cameraDir.png","pos":{"x":224.0,"y":-122.0}}
+Image=
+<b>Camera Controls & Binocular View</b>
+Practice moving the camera.
+Pan: <KEY:DragCamera> and drag or <KEY:CameraLeft>, <KEY:CameraRight>, <KEY:CameraUp> and <KEY:CameraDown>.
+Zoom: use <KEY:MouseWheel> or <KEY:ZoomIn> and <KEY:ZoomOut>.
+Toggle Underwater:  use <KEY:SwitchUnderwater> to switch back and forth.
+Hold <KEY:CameraDown> to pan the camera in order to look upwards.
+
+Use Binoculars.
+Use <KEY:Binoculars> to enter (or leave) Binoculars View.
+Use the same Pan, Zoom and Toggle Underwater commands (as above) to move the camera while in binoculars view.
+Switching to underwater cancels Binocular View.
+
+Buttons for Binoculars and Toggle Underwater can be found on the Secondary Toolbar below the Mini Map.
+
+Top middle of screen displays true bearing (direction) camera is facing.
+0=north, 90=east, 180=south and 270=west.
+
+When ready, use next arrow to continue.

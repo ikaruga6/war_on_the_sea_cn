@@ -1,0 +1,21 @@
+﻿Image={"path":"interface/tutorial/espirituSanto.png","pos":{"x":260.0,"y":-73.0}}
+Image=
+Image=
+<b>Events & Strategic Map</b>
+(No events shown for this tutorial)
+Major events occurring during a campaign appear as a large central panel. Time is paused during an event.
+Events include the prelude leading up to the campaign and the campaign outcome.
+<KEY:LeftMouse> CONTINUE button or "x" button at upper right of an event to close it and continue the campaign.
+
+Strategic Map
+With the cursor over the map, use <KEY:MouseWheel> to zoom map in/out.
+<KEY:LeftMouse> and drag to pan map about (when not fully zoomed out).
+<KEY:LeftMouse> on a panel and drag to reposition that panel.
+
+Use the map filters to show or hide various details on the map.
+Use <KEY:CentreMap> to zoom out and view the entire map at any time.
+
+<KEY:LeftMouse> a map icon will select it and open information about it.
+Use <KEY:CentreMap> to ensure the map is zoomed out, then <KEY:LeftMouse> on your Home Port at NEW HEBRIDES
+(lower right) to open it.
+Note the icon of your Home Port is different to other friendly location icons.

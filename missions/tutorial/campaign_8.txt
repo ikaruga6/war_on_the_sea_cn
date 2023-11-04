@@ -1,0 +1,18 @@
+﻿Image=
+Image=
+Image=
+<b>Launching Aircraft</b>
+<KEY:LeftMouse> Enterprise to select it, choose Launch Aircraft from the lower orders dropdown and <KEY:LeftMouse> the execute button for that dropdown. Panel opens where you may select the type and number of aircraft to launch, as well as their payload.
+
+<KEY:LeftMouse> on the Dauntless to select the type.
+<KEY:LeftMouse> multiple times on the - button below to set the number of aircraft to 8/24.
+Use the dropdown to set the payload to "None" (carrying a payload decreases aircraft range) then <KEY:LeftMouse> DONE to order 8 Dauntless aircraft to take off.
+
+Upon launch, the flight of Dauntless aircraft is immediately selected.
+To plot a course, <KEY:LeftMouse> COURSE to enter navigation mode, then <KEY:LeftMouse> various points on the map to place one or more navigation waypoints. <KEY:LeftMouse> COURSE again or <KEY:Cancel> to exit navigation mode.
+OPTIONAL: <KEY:LeftMouse> TACTICAL to see Dauntless flight (and ships below) in the 3D world, then end mission to return to strategic map.
+
+Other air group controls are:
+LAND - land the flight it if is close enough to its Home.
+RTB - Return to Base, plot a course to Home and immediately land.
+TACTICAL - enter the 3D world.

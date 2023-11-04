@@ -1,0 +1,20 @@
+﻿Image=
+Image=
+Image=
+<b>Adding Air Units</b>
+Units are added via the Unit Viewer. Use button in toolbar or (<KEY:CustomUnitID>) to open the Unit Viewer.
+If needed, <KEY:LeftMouse> and drag the Unit Viewer and/or this tutorial panel in order to view them.
+
+<KEY:LeftMouse> Switch Sea/Air toggle at the bottom centre of Unit Viewer to switch to Air Units.
+<KEY:LeftMouse> Add Unit button (<KEY:UnitIDClassifyAs>) to create a group of Wildcats.
+
+The WILDCAT panel may be used to set number of aircraft (max 12), loadout, heading & altitude as well as formation and spacing.
+Only one type of aircraft is allowed per group and setting the number of aircraft to 0 will delete the group.
+Blue/Red toggle assigns the group to a side.
+COURSE enters navigation mode where <KEY:LeftMouse> on the map will place one or more navigation waypoints for the group to follow.
+Use COURSE again or (<KEY:Cancel>) to exit navigation mode. Plotting a course deletes any existing waypoints for that group.
+
+MAP
+<KEY:LeftMouse> anywhere on the map and drag to pan the map (cannot be zoomed).
+<KEY:LeftMouse> on the aircraft icon and drag to position the Wildcat group on the map as desired.
+Note the map grid which indicates the centre of the engagement. Units may be placed outside of the grid but be careful to to place then so far as to be out of the combat zone when the battle starts.

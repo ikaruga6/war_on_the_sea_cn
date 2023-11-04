@@ -1,0 +1,16 @@
+﻿Image=
+Image=
+Image=
+<b>Smoke Screens</b>
+Be sure you are controlling a destroyer, then <KEY:LeftMouse> colored tab in Unit Roster to select all destroyers.
+<KEY:LeftMouse> Lay Smoke button in Orders Panel to begin laying smoke with all 3 destroyers.
+
+- A ship laying smoke or looking at a target laying smoke is always considered to be viewing through smoke.
+- Viewing through smoke applies a significant penalty to solution calculations againt the target.
+- Enemy ships laying smoke is a good indication that they are attempting to withdraw from combat.
+- Firing at ships laying smoke or viewed through a smoke screen may not be a good use of ammuntion.
+
+
+When ready, end the mission;
+1) Either <KEY:LeftMouse> on the Menu button in the toolbar or use <KEY:Menu>.
+2) <KEY:LeftMouse> on the QUIT button to end the mission.

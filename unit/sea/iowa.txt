@@ -1,0 +1,1 @@
+﻿{"unitName":"Iowa","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["Iowa","New Jersey","Missouri","Wisconsin"],"instancesInClass":["iowa","new jersey","missouri","wisconsin"]}

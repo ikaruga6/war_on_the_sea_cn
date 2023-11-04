@@ -1,0 +1,1 @@
+﻿{"unitName":"Tenryū","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["Tenryū","Tatsuta"],"instancesInClass":["tenryu","tatsuta"]}

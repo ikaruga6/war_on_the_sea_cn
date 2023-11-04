@@ -1,0 +1,18 @@
+﻿Image=
+Image=
+Image=
+<b>Unit Viewer Details 2</b>
+Sensors & Armor
+Visual (Vis.) Horizon: How far the ship can see. Larger ships can see further since they are taller.
+Visual (Vis.)/Radar Detection: How easy a ship is to spot visually or with radar. Smaller ships are harder to see or detect with radar.
+Surface/Air Radar: How far the radar on this ship can detect ships or aircraft under the very BEST of conditions.
+
+Noise Level: How noisy the ship is in decibels. Louder ships are easier to detect with passive sonar.
+Active Detection: How easily the ship is detected by active sonar. A large hull makes a ship easier to detect with active sonar.
+Passive/Active Sonar Strength: How far the sonar types can detect other ships/submarines under the very BEST of conditions.
+
+Armor values listed are the maximum armor thickness at various locations around the ship.
+
+When ready, end the mission;
+1) Either <KEY:LeftMouse> on the Menu button in the toolbar or use <KEY:Menu>.
+2) <KEY:LeftMouse> on the QUIT button to end the mission.

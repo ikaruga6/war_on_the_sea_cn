@@ -1,0 +1,1 @@
+﻿{"unitName":"Hellcat","weaponDescriptions":["Guns|6x Machine Gun"],"payloadDisplayNames":["None"],"payloadIndexes":["-1"],"endurance":[1]}

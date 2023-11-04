@@ -1,0 +1,13 @@
+﻿introduction=Introduction & Basic Combat=6,6,1940=Learn about:\n- Camera controls and binoculars\n- Firing guns\n- Firing torpedoes\n- Ending missions
+navigation=Navigation=8,6,1940=Learn about:\n- Controlling individual ships and aircraft\n- Navigation and waypoints\n- Using the map\n- Camera modes
+gunnery=Naval Gunnery=10,6,1940=Learn about:\n- Secondary guns\n- Gunnery settings\n- Manual firing and splitting fire\n- Building firing solutions
+movingtarget=Hitting Moving Targets=10,6,1940=Learn about:\n- Tracking targets\n- Directors\n- Building a firing solution\n- Sensors and detection
+damagecontrol=Damage Control=16,6,1940=Learn about:\n- Compartments\n- Flooding and counter flooding\n- Fighting fires\n- Repairs to subsystems
+multiple=Multiple Units=10,6,1940=Learn about:\n- Setting up units prior to combat\n- Formations\n- Giving orders to multiple ships and aircraft
+submarine=Submarine Warfare=18,6,1940=Learn about:\n- Controlling submarines\n- Detecting enemy submarines\n- Approaching and attacking
+aircraft=Air Attacks=20,6,1940=Learn about:\n- Aircraft damage\n- Attacking with aircraft\n- Formation attacks\n- Independent attacks
+bombing=Advanced Air Attacks=21,6,1940=Learn about:\n- Manual attacks\n- Bombing Techniques\n- Advanced Tips
+dogfight=Dogfights=23,6,1940=Learn about:\n- Targeting\n- Assigning attacks\n- Manually shooting down aircraft
+editor=Custom Battles=27,6,1940=Learn about:\n- Setting up custom scenarios\n- Adding and editing Air and Sea groups
+campaign=Campaign: Introduction=27,6,1940=Learn about:\n- Strategic map\n- Locations\n- Recruiting ships\n- Launching aircraft
+cargo=Campaign: Cargo & Bases=27,6,1940=Learn about:\n- Shore bombardments\n- Transporting troops & supplies\n- Conquering locations\n- Building ports & airfields

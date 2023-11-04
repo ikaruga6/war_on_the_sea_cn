@@ -1,0 +1,1 @@
+﻿{"unitName":"Akizuki","namesInClass":["Akizuki","Teruzuki","Suzutsuki","Hatsuzuki","Niizuki","Wakatsuki","Shimotsuki","Fuyutsuki","Harutsuki","Yoizuki","Natsuzuki","Hanazuki"],"instancesInClass":["akizuki","teruzuki","suzutsuki","hatsuzuki","niizuki","wakatsuki","shimotsuki","fuyutsuki","harutsuki","yoizuki","natsuzuki","hanazuki"]}

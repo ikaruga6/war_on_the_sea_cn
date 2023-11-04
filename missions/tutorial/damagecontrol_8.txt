@@ -1,0 +1,17 @@
+﻿Image=
+Image=
+Image=
+<b>Explosion on board!</b>
+The aft (rear) magazine has suffered an explosion, destroying several compartments and causing fire and flooding.
+If Auto Assign Damage Control is on (under STATUS), damage control parties are automatically assigned to begin repairs, fighting fires first. Turning off Auto Assign Damage Control allows you to move the parties about as desired by <KEY:LeftMouse> on a damaged compartment (or a compartment containing a party to release them).
+
+Fires spread faster if a ship is moving at speed and in stronger winds.
+Fire in a magazine may cause a catastrophic explosion. Flooding the magazine helps prevents this.
+Flooding spreads faster in heavy seas.
+
+<KEY:LeftMouse> Counterflood Compartment and <KEY:LeftMouse> in the front 2 compartments in the bow. This will disable Auto Damage Control and flood the front of the ship in order to better balance it.
+
+Mouse over the various damaged compartments to view their Integrity, icons displaying fire, flooding, damaged or offline and timers to repair. Under STATUS, note the reduced speed due to propellers being destroyed and offline and reduced Efficiency of the ship.
+
+Open Main Guns panel by either <KEY:LeftMouse> on the Main Guns button in the toolbar or use <KEY:Weap0>.
+Note that the aft (rear) gun is offline since the magazine that feeds it ammunition is offline or destroyed.

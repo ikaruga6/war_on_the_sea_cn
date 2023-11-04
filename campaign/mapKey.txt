@@ -1,0 +1,4 @@
+﻿<b><size=18>ICON COLOURS</size></b>\n\nFriendly\n\nEnemy\n\nNeutral\n\nSelected
+<b><size=18>SEA & AIR</size></b>\n\nSubmarine\n\nEscort\n\nTransport / Convoy\n\nCruiser\n\nBattleship\n\nFleet Carrier\n\nScout\n\nFighter\n\nDive Bomber\n\nTorpedo Bomber\n\nMedium Bomber\n\nHeavy Bomber
+<b><size=18>LOCATIONS</size></b>\n\nPorts & Airfields\n\nHome Port
+<b><size=18>WEATHER</size></b>\n\nCloud Icons:\nScattered\n\n\n\n\nBroken\n\n\n\n\nOvercast\n\n\n\n\n\nRain\nSnow\n\n\n\n\nStorm\nSnowstorm\n\n                             Numbers show sea state/wind speed

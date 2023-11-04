@@ -1,0 +1,15 @@
+﻿Image=
+Image=
+Image=
+<b>Orders Panel</b>
+Use <KEY:Orders> or the toolbar button to open the Orders panel.
+The left section of this panel and contains alternate slider controls for, speed, steering and altitude/depth (when applicable).
+
+Use sliders to adjust the speed and steering of your destroyer.
+Use <KEY:IncreaseSpeed>, <KEY:DecreaseSpeed>, <KEY:LeftRudder>, <KEY:RightRudder> and <KEY:ZeroControls> to also adjust speed and steering and note the sliders update.
+
+Ships have inertia and require some time to react to speed and course changes. Larger ships take longer to respond.
+
+Turning "bleeds" speed. This is most noticeable at high speeds and when performing a maximum turn which may bleed up to ~40% of speed.
+
+When ready, set speed to 15 and rudder to  <--  to keep your destroyer sailing in a circle, then use next arrow to continue.

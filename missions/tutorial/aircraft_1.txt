@@ -1,0 +1,19 @@
+﻿Image=
+Image=
+Image=
+<b>Air Attacks</b>
+There are 2 old freighters (1., and 2.) in the area for target practice.
+
+Take control of the aircraft "1. Wildcat" (Fighter).
+HINT: <KEY:LeftMouse> on the map icon for this aircraft or <KEY:LeftMouse> on the arrow next to its name in the Roster.
+
+Target the ship "1."
+HINT: Use <KEY:TargetMode> to enter Target  and <KEY:LeftMouse> on its map icon, the ship itself if close enough, or the arrow in Message Log, to set it as your target.
+
+Use <KEY:FollowCam> or button in Secondary Toolbar to set camera to lock onto the target.
+Use <KEY:AttackTarget> or use <KEY:Orders> or the toolbar button to open the Orders panel and <KEY:LeftMouse> Attack button to begin a strafing attack.
+
+Your Wildcat will immediately turn and move in to perform a strafing attack on the target ship. Watch as this happens.
+
+After the attack, the Wildcat will assume following a waypoint as indicated on the map to clear the area.
+Use <KEY:AttackTarget> to attack again or steer left/right to turn in a gentle circle and keep the Wildcat in the area.

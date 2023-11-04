@@ -1,0 +1,15 @@
+﻿Image=
+Image=
+Image=
+<b>Dogfight At Will</b>
+Repeat this training exercise, skipping Step 1.
+
+<KEY:LeftMouse> the colored group tab to select both Wildcats.
+
+Open the Orders Panel (<KEY:Orders>) and <KEY:LeftMouse> on the Dogfight At Will button located under COMBAT.
+This will toggle Dogfight At Will on/off for all selected aircraft, note the "guns" icon in the roster tabs when it is on.
+
+When on, Dogfight At Will allows your aircraft to attack any enemy aircraft they detect, without being issued an attack order to do so.
+It can be applied to any aircraft with forward firing guns, however larger aircraft without forward guns (such as medium and heavy bombers) cannot dogfight.
+
+Dogfight At Will is on by default for regular battles.

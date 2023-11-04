@@ -1,0 +1,2 @@
+﻿campaign001=Operation Watchtower=7,8,1942=Control the Allies to expel all enemy troops from the southern Solomon Islands, build an airfield on Guadalcanal and prevent any further Japanese expansion to the south.
+campaign002=Battle of Guadalcanal=7,8,1942=As Imperial Japan, complete construction of an airfield on Guadalcanal and ensure the Allies gain no foothold in the southern Solomon Islands.

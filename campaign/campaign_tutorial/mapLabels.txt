@@ -1,0 +1,6 @@
+﻿{"text":"NEW GUINEA","size":0.04,"position":{"x":-0.39,"y":0.154},"shadow":true,"italic":false,"color":{"r":255,"g":255,"b":255,"a":255}}
+{"text":"AUSTRALIA","size":0.04,"position":{"x":-0.371,"y":-0.332},"shadow":true,"italic":false,"color":{"r":255,"g":255,"b":255,"a":255}}
+{"text":"PACIFIC OCEAN","size":0.04,"position":{"x":0.29,"y":0.336},"shadow":false,"italic":true,"color":{"r":128,"g":255,"b":255,"a":200}}
+{"text":"Coral\nSea","size":0.04,"position":{"x":-0.075,"y":-0.341},"shadow":false,"italic":true,"color":{"r":128,"g":255,"b":255,"a":200}}
+{"text":"Bismarck Sea","size":0.04,"position":{"x":-0.227,"y":0.333},"shadow":false,"italic":true,"color":{"r":128,"g":255,"b":255,"a":200}}
+{"text":"Solomon Sea","size":0.04,"position":{"x":-0.098,"y":0.1422},"shadow":false,"italic":true,"color":{"r":128,"g":255,"b":255,"a":200}}

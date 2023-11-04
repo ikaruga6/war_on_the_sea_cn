@@ -1,0 +1,5 @@
+﻿Image={"path":"interface/tutorial/rosterSelect.png","pos":{"x":0.0,"y":-40.0}}
+Image=
+Image=
+<b>Roster Selection</b>
+Note that additional units in the roster can be selected by SHIFT + <KEY:LeftMouse> a roster tab. This will select all units between the one clicked and the current player controlled unit. Similarly, clicking a selected unit de-selects these relevant units.

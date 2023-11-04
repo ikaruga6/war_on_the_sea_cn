@@ -1,0 +1,1 @@
+﻿{"unitName":"Takao","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["Takao","Atago","Maya","Chōkai"],"instancesInClass":["takao","atago","maya","chokai"]}

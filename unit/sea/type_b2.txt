@@ -1,0 +1,1 @@
+﻿{"unitName":"Type B Mod. 1","weaponDescriptions":["Type 96 25mm Guns"],"namesInClass":["I-40","I-41","I-42","I-43","I-44","I-45"],"instancesInClass":["i-40","i-41","i-24","i-43","i-44","i-45"]}

@@ -1,0 +1,1 @@
+﻿{"unitName":"Somers","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["Somers","Warrington","Sampson","Davis","Jouett"],"instancesInClass":["somers","warrington","sampson","davis","jouett"]}

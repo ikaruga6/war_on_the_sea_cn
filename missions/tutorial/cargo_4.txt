@@ -1,0 +1,21 @@
+﻿Image=
+Image=
+Image=
+<b>Upgrading Ports and Airfields</b>
+CONSTRUCTION convoy is waiting and already loaded with Engineering and Fuel resources.
+Select CONSTRUCTION by <KEY:LeftMouse> on the convoy icon or use Next Sea/Air (<KEY:NextMobile>) button in toolbar to cycle to it.
+
+Use COURSE to plot a course close to RENNELL ISLAND and time compression to sail there and unload cargo.
+<i>See page 3 of this tutorial for a step by step guide if needed.</i>
+
+Once CONSTRUCTION has unloaded all cargo at RENNELL ISLAND;
+<KEY:LeftMouse> RENNELL ISLAND icon to open the location panel or use Next Location (<KEY:NextLocation>) button to cycle to it.
+
+Upgrading Ports & Airfields
+Spend the resources listed under the port or airfield icon to upgrade that facility.
+Enough Supplies, Engineering and Fuel has been delivered to upgrade both the Port and Airfield here to Rank 1.
+<KEY:LeftMouse> the Port icon and Airfield icon to upgrade both of them to Rank 1.
+
+Upgrading them provides additional ship management options (ports) and aircraft (airfields).
+Also, higher rank facilities better detect nearby enemy forces and are more difficult for the enemy to take over.
+More information can be found under Campaign Summary (<KEY:CampSummary>) RULES.

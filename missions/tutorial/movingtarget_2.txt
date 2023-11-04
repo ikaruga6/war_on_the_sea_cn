@@ -1,0 +1,21 @@
+﻿Image=
+Image=
+Image=
+<b>Solution Modifiers</b>
+The following increase the solution:																		The following decrease the solution:
+- Good visibility to target, at close range																- Poor visibility to target, at long range
+- Using Spotting fire against the target																- Changes in target course or speed
+- Correct identification of target ship class															- Changes in observing ship's course or speed
+- Using radar																											- Losing contact with target
+- Target using radar																								- Target burning or releasing smoke
+- Darkness and target illuminated by fire, muzzle flashes or fire						  (unless observer using radar)
+
+To demonstrate this;
+1) Use <KEY:TargetMode> to enter Target Mode (note the mouse pointer change).
+2) While in Target Mode <KEY:LeftMouse> on Porter map icon to set it as your target.
+3) Wait for the solution to reach 90+%.
+
+Upon opening the next tutorial page, Porter will speed up and begin turning.
+Watch the solution values along with target speed and heading displayed above the Main Toolbar.
+
+As Porter speeds up and turns the solution value will decrease. It is much harder to predict where a manoeuvring ship will be.

@@ -1,0 +1,12 @@
+﻿Image=
+Image=
+Image=
+<b>Test & Crush Depths</b>
+Hulls of submarines are constructed to withstand water pressure at the depth they operate.
+For each 33 ft (10 m) of depth about 1 atmosphere of pressure is added.
+
+Test depth is the safe depth at which a submarine can operate; during sea trials it has actually been reached. Crush depth is the actual depth causing the hull to structurally fail and implode, on average about 1.5 to 1.75 times that of test depth.
+
+Test depth for a submarine can be found on the Statistics panel of the Unit Viewer (Recognition Manual), use <KEY:UnitID> or button on Main Toolbar.
+
+Going deeper than crush depth will instantly destroy a submarine.

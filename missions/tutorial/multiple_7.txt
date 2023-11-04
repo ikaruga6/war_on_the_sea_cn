@@ -1,0 +1,14 @@
+﻿Image=
+Image=
+Image=
+<b>Begin Engagement</b>
+LEFT CLICK on the START button in the upper centre to begin.
+
+Combat will not begin if:
+- 2 or more ships are too close to each other.
+- A ship is in shallow water (or on land).
+- 2 or more aircraft are too close to each other.
+- Any ship or aircraft is outside of its initial deployment area.
+You will be prompted to move the unit or units into a more appropriate starting position.
+
+<KEY:LeftMouse> on the START button in the upper centre to begin.

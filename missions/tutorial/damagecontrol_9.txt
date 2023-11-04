@@ -1,0 +1,18 @@
+﻿Image={"path":"interface/tutorial/rosterDamage.png","pos":{"x":250.0,"y":100.0}}
+Image=
+Image=
+<b>Roster Damage Icons</b>
+The Roster tab (above the Message Log at bottom left), displays damage status icons for ships.
+From left to right;
+Fire - at least one compartment is on fire and not under repair.
+Flooding - at least one compartment is flooded and not under repair.
+Needs Repair - at least one compartment is offline (or not at full integrity) and not under repair.
+
+Compartments may not be under repair due to Auto Assign Damage Control being off, or there are more damaged regions than there are parties to perform the repairs.
+
+These icons are a good indicator that it might be time to take control of that ship and start managing the damage situation.
+
+<i>Fires should always be a priority to extinguish as they cause ongoing damage.</i>
+
+Use <KEY:DamageControl> or the toolbar button to return to Damage Control and attempt to perform all repairs or end this exercise when ready.
+<i>As repairs are completed, note improvements to Efficiency and recovery of ship speed once the non-destroyed propellers are back online.</i>

@@ -1,0 +1,19 @@
+﻿Image=
+Image=
+Image=
+<b>Taking Over Locations: Ground Warfare</b>
+<KEY:LeftMouse> RENNELL ISLAND icon to open the location panel or use Next Location (<KEY:NextLocation>) button to cycle to it.
+Note the number friendly Troops and Supplies that are now here and the conflict bar at lower left, displays the balance between friendly and enemy troops.
+
+Thankfully the number of enemy troops here was not as high as expected and they should be overpowered within a day.
+
+<KEY:LeftMouse> Time Max (<KEY:TimeMax>) to maximise time compression.
+Watch the conflict bar, the number of friendly troops and supplies will change change daily.
+
+As a ground war progresses, troop numbers decrease daily due to casualty or capture.
+Supplies are also consumed daily and are crucial for troops to fight effectively. They represent rations, ammunition, heavy weapons and medical supplies available in the field. When fighting, it is best to maintain at least 1 supply per troop at a particular location.
+
+<KEY:LeftMouse> Pause (<KEY:TimePause>) once RENNELL ISLAND has been taken over by friendly forces.
+
+Port and airfield facilities may only be built or upgraded by whoever controls the location (including during a ground war).
+With RENNELL ISLAND back in friendly hands, it is time to rebuild the airfield.

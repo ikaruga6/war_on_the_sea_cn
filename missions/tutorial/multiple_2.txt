@@ -1,0 +1,19 @@
+﻿Image=
+Image=
+Image=
+<b>Selecting Units</b>
+There are multiple ways to switch your Controlled Unit:
+1) <KEY:LeftMouse> map icon of a player owned unit.
+2) <KEY:LeftMouse> on player owned unit within the 3D world.
+3) <KEY:LeftMouse> on the arrow for that unit from the Roster list.
+4) <KEY:LeftMouse> on the arrow of a log message if it refers to a friendly unit.
+
+There are multiple ways to select additional units to issue orders to:
+1) SHIFT + <KEY:LeftMouse> and drag to select units on map.
+2) <KEY:LeftMouse> Select All button under the Roster (to select/deselect all).
+3) <KEY:LeftMouse> the names in the Roster to toggle highlighting/selecting them.
+4) <KEY:LeftMouse> the group color tab to select all units within that group.
+5) Use <KEY:SelectMode> to enter Selection Mode and <KEY:LeftMouse> map icons to toggle highlighting/selecting them. Use <KEY:SelectMode> again or <KEY:Cancel> to exit Selection Mode.
+6) Use <KEY:SelectMode> to enter Selection Mode and <KEY:LeftMouse> the unit within the 3D world to toggle highlighting/selecting them. Use <KEY:SelectMode> again or <KEY:Cancel> to exit Selection Mode.
+
+<i>The Controlled Unit map icon is Yellow. Selected Unit/s map icons are Green. Other units are White. Current Unit's target is Red.</i>

@@ -1,0 +1,21 @@
+﻿Image=
+Image=
+Image=
+<b>Fire At Will</b>
+At the top of the Main Guns panel is the button "AT WILL". <KEY:LeftMouse> this to begin firing guns at will.
+Porter immediately targets the closest oiler and begins firing at will.
+
+Fire At Will mode will do the following;
+- commence firing primary (and secondary) guns at detected or upon detecting enemy units
+- assign target of primary guns to all directors
+- switch to new target if current target sunk or no longer detected
+- automatically use HE rounds against destroyers, submarines, merchants, oilers
+- adjusts spread based on target solution
+- fires star shells (in dark conditions) to illuminate the target
+- hides FIRING ORDERS settings on gun panels replacing them with "FIRING AT WILL"
+
+<KEY:LeftMouse> "Stop" below FIRING AT WILL to return to manual gunnery.
+Note Porter will continue to fire at its current target (but no longer automatically manages ammuntion type or other settings).
+<KEY:LeftMouse> CEASE to stop firing.
+
+Fire At Will mode is on by default in regular battles and is useful to automate the gunnery of multiple ship under your control.

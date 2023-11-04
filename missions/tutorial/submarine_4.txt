@@ -1,0 +1,17 @@
+﻿Image=
+Image=
+Image=
+<b>Sonar & Detection</b>
+Use <KEY:Menu> or Menu button in Main Toolbar to open the Menu panel.
+Here environmental conditions are shown.
+
+Layer Depth/Strength: A sudden drop in water temperature may generate a layer which deflects sound waves. Noise ACROSS the layer is reduced by the factor shown.
+Duct Strength: A channel above the layer which improves sound propagation. Noise WITHIN the duct is increased by the factor shown.
+
+Today, a layer is present at 164 ft. Going below this depth will reduce sonar detection of ships by your submarine and detection of your submarine by ships by the Layer Strength factor (0.8x).
+
+Staying above the layer will put both your submarine and ships within the duct. Sonar detection of ships by your submarine and detection of your submarine by ships is increased by the Duct Strength factor (1.5x).
+
+<i>Firing torpedoes, then retreating below the layer and using Silent Running (Silent button on Orders panel), can help decrease the chance of enemy destroyers detecting your submarine.</i>
+
+For other factors determining sonar sensitivity and detection, see the PDF Manual section on SONAR.

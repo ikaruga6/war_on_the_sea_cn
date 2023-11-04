@@ -1,0 +1,20 @@
+﻿8
+Image={"path":"interface/tutorial/execute.png","pos":{"x":245.0,"y":-52.0}}
+Image=
+Image=
+<b>Taking Over Locations: Bombard</b>
+A small Japanese landing force has taken over RENNELL ISLAND and built a Rank 2 airfield there.
+
+The strategy to take back RENNELL ISLAND will be:
+1) Bombard the location with TASK FORCE 1 in an attempt to knock out the airfield (at night to avoid aircraft).
+2) Send in TROOP convoy to land troops and supplies.
+3) Once enemy troops are subdued, send in CONSTRUCTION convoy to rebuild the airfield.
+
+Bombard Location
+- Select "TASK FORCE 1" by <KEY:LeftMouse> on the friendly battleship icon near RENNELL ISLAND or use Next Sea/Air (<KEY:NextMobile>) button in toolbar to cycle though your groups to it.
+- Select "Shore Bombardment" from the lower orders dropdown and <KEY:LeftMouse> corresponding execute button (             ) to bombard this location.
+- <KEY:LeftMouse> the corresponding execute button 2 more times to perform a total of 3 bombards.
+Note the message confirming the bombards above the toolbar.
+Remember that a bombard action expends 1/3 ammunition and requires heavy cruisers or larger to perform.
+
+With the bombardment complete, <KEY:LeftMouse> COURSE and plot a course for TASK FORCE 1 back to NEW HEBRIDES to withdraw it from the area.

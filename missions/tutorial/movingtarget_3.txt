@@ -1,0 +1,18 @@
+﻿Image=
+Image=
+Image=
+<b>Unit Viewer / Recognition Manual</b>
+The Unit Viewer is an encyclopaedia of ships and aircraft. In combat, it is used as a Recognition Manual to classify enemy ships.
+<i>In the Battle Editor it is used to add ships and aircraft to an engagement while in a campaign it is used to recruit ships.</i>
+
+Open the Unit Viewer panel by either <KEY:LeftMouse> on the Unit Viewer button in the toolbar or use <KEY:UnitID>. The manual always opens on the page corresponding to the Controlled Unit.
+
+The manual contains information about the various ships and aircraft. Use the icons along the bottom of the panel to examine statistics, weapons, anti-aircraft capabilities and sensors and armour.
+
+Classifying Ships
+Correctly classifying the class of an enemy ship provides a bonus to the solution. Use the arrows (<KEY:UnitIDPrev>, <KEY:UnitIDNext>) to cycle through the various ships or the dropdown to select a class directly, then use the checkbox or <KEY:UnitIDClassifyAs> to classify the target as that ship class.
+- Requires Controlled Unit to have a target.
+- Friendly ships cannot be classified as they are already known.
+- Aircraft cannot be classified.
+
+Depending on option settings, targets will automatically be classified when the solution is above a certain value.

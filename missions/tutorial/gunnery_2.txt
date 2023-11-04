@@ -1,0 +1,14 @@
+﻿Image=
+Image=
+Image=
+<b>Secondary Guns</b>
+Larger ships have secondary gun batteries in addition to their main guns.
+
+Open Secondary Guns panel by either <KEY:LeftMouse> on the Secondary Guns button in the toolbar or use <KEY:Weap1>. The panel remains the same however the gun turret icons have been replaced with icons for the secondary guns. Secondary gun icons represent all guns within that battery.
+
+Experiment with firing the secondary guns to the east and west. Remember that guns can only fire within their firing arc (shown by mouse over turret icon) and within range.
+
+Next try firing the main guns and secondary guns at the same time in various directions.
+<i>Remember that CEASE, HOLD and FIRE commands are ONLY applied to the selected gun turrets when executed and ONLY to the main or secondary guns depending on which gun panel is being used.</i>
+
+When finished CEASE firing all guns.

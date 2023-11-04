@@ -1,0 +1,1 @@
+﻿{"unitName":"Yamato","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["Yamato","Musashi"],"instancesInClass":["yamato","musashi"]}

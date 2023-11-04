@@ -1,0 +1,17 @@
+﻿Image=
+Image=
+Image=
+<b>Land Based Aircraft</b>
+Launching aircraft from airfields is essentially the same as from ships.
+Select a friendly location with an airfield by <KEY:LeftMouse> on the location icon or use Next Location (<KEY:NextLocation>) button in toolbar to cycle through locations. NEW HEBRIDES or PORT MORESBY are good choices for this tutorial.
+
+Under the airfield icon, <KEY:LeftMouse> NEW AIR to open the create air group panel.
+As before, you may select the aircraft type, number, payload and then <KEY:LeftMouse> DONE to launch the flight.
+A cooldown after launching or landing planes is required before additional planes can be launched from an airfield (or ship).
+Plot a course for this new flight as was done for the Dauntless flight earlier.
+
+<KEY:LeftMouse> Time Max (<KEY:TimeMax>) to maximise time compression and watch the flight move across the map.
+As soon as the flights Endurance reaches 0, it will automatically return and land at its Home.
+Once Endurance reaches 0, a new course can no longer be plotted.
+Notice that the other aircraft flight and Sea group begin following the course plotted earlier in this tutorial.
+<KEY:LeftMouse> Pause (<KEY:TimePause>) once all aircraft return and have landed.

@@ -1,0 +1,40 @@
+﻿sundastrait=Sunda Strait=1,3,1942=Allied cruisers stumble into a massive Japanese convoy on its way to invade West Java.
+coralseaShoho=Coral Sea: Shōhō=7,5,1942=US reconnaissance aircraft sight the Japanese carriers protecting the Port Moresby invasion force.
+coralsea=Coral Sea: Sims & Neosho=7,5,1942=After an unsuccessful search for US carriers, Val dive bombers from the carrier Shōkaku return to attack a fleet oiler and its escort which had been sighted earlier that morning.
+coralsea8=Coral Sea: Shōkaku=8,5,1942=Aircraft from the carriers Yorktown and Lexington attack the Japanese carrier force.
+coralseaLex=Coral Sea: US Carriers=8,5,1942=Japanese carrier aircraft commence their attack on the US carrier group.
+midway4=Battle of Midway: Yorktown=4,6,1942=Yorktown is the target for multiple waves of Japanese aircraft launched from the carrier Hiryū.
+midway3=Battle of Midway: Japanese Cruisers=6,6,1942=Damaged from a collision the previous day, heavy cruisers Mikuma and Mogami make for Wake Island at slow speed. As daylight breaks, dive bombers from Enterprise and Hornet spot the ships.
+savoisland=Savo Island=8,8,1942=In response to US landings on Guadalcanal, a Japanese heavy cruiser force is in sent to attack the transports.
+sinkingRyujo=Eastern Solomons: Ryūjō=24,8,1942=Sent ahead to attack Henderson field, Ryūjō and her heavy cruiser escort come under attack from numerous US aircraft.
+eastsolomon=Eastern Solomons: Enterprise=24,8,1942=Enterprise and her escorts come under heavy attack from enemy dive bombers during the Battle of the Eastern Solomons.
+sinkingWasp=Ambush by I-19=15,9,1942=In perfect position, submarine I-19 fires upon the carrier task group supporting the Guadalcanal resupply effort.
+santacruz=Santa Cruz=27,10,1942=Japanese dive bombers and torpedo bombers commence their attack on the US carrier Hornet.
+capeesperance=Cape Esperance=11,10,1942=A US cruiser force is ready to intercept the next Japanese supply run to Guadalcanal. Instead they stumble into a cruiser force sent to bombard the airfield.
+guadalcanal1=First Battle of Guadalcanal=13,11,1942=Japanese naval forces move in to bombard Henderson Field and destroy Allied aircraft defending Guadalcanal. Aware of the approaching ships, a US task force is deployed to intercept them.
+sinkinghiei=Sinking of Hiei=13,11,1942=Crippled in action the night before, Hiei attempts to leave the area. As daylight breaks, US aircraft begin a relentless attack.
+sinkingjuneau=Sinking of Juneau=13,11,1942=Damaged at the First Battle of Guadalcanal, three US cruisers retreat to New Hebrides for repairs when they are detected by an enemy submarine.
+guadalcanal2a=Second Battle of Guadalcanal=14,11,1942=Battleships South Dakota and Washington, are hastily assembled into a task force to defend Henderson Field on Guadalcanal.
+guadalcanal2b=Second Battle of Guadalcanal 2=14,11,1942=As the battle continues, South Dakota and Washington face off against Kirishima and her heavy cruiser escort. Just as the ships engage, South Dakota loses electrical power.
+tassafaronga=Tassafaronga=30,11,1942=Japanese destroyers undertaking a supply run to Guadalcanal fend off a US cruiser force.
+rennellisland=Rennell Island=29,1,1943=A US task force escorting reinforcements to Guadalcanal comes under attack from land based bombers.
+rennellisland2=Rennell Island, Day 2=30,1,1943=Crippled by 2 aerial torpedo hits the previous evening, USS Chicago is under tow when additional land based bombers appear. Fighters from the nearby Enterprise are scrambled to defend the stricken cruiser.
+bismarcksea=Bismarck Sea=3,3,1943=Despite the threat of Allied air power, Japan sends a convoy to New Guinea in order to reinforce the southern perimeter of the empire.
+blackettstrait=Blackett Strait=6,3,1943=Japanese destroyers reinforce Vila on Kolombangara, but are attacked as they depart the area.
+kulagulf=Kula Gulf=6,7,1943=US ships engage a Japanese reinforcement group near Kolombangara in the Solomon Islands.
+vellagulf=Vella Gulf=6,8,1943=A Japanese destroyer force carrying troops to reinforce Kolombangara in the Solomon Islands is ambushed by US destroyers.
+horaniu=Horaniu=18,8,1943=Escorts from a Japanese convoy evacuating troops from Kolombangara in the Solomon Island come under attack from US destroyers.
+vellalavella=Vella Lavella=6,10,1943=While evacuating some 600 troops from Vella Lavella, Japanese warships engage a group of US destroyers.
+empressaugusta=Empress Augusta Bay=2,11,1943=As US Marines land on Bougainville, a Japanese cruiser force sweeps the area to bombard the invasion force.
+stgeorge=Cape St. George=25,11,1943=Allied destroyers intercept a Japanese destroyer group returning from having landed reinforcements on Buka Island.
+hailstone=Operation Hailstone=17,2,1944=Several stricken Japanese ships attempt to flee Truk Lagoon as it comes under assault from the air and sea.
+philippinesea=Philippine Sea=19,6,1944=Japanese aircraft attack US carriers to defend the Mariana Islands.
+sinkingshokaku=Sinking of Shokaku=19,6,1944=During the Battle of the Philippine Sea, a US submarine locates and attacks one of the Japanese carrier forces.
+palawanpassage=Palawan Passage=23,10,1944=On its way to attack the Allies at Leyte, a powerful fleet of Japanese ships is ambushed by US submarines.
+sibuyansea=Sibuyan Sea=24,10,1944=As the large Japanese force pushes on to Leyte, it comes under heavy air attack.
+capeengano=Cape Engano=25,10,1944=The Japanese Northern Force is spotted at dawn by US aircraft as it sails towards Leyte.
+intrepid=Strike on Task Group 38=25,11,1944=A US carrier Task Group has been performing operations over Luzon in the Philippines when it is attacked by a Japanese air strike.
+sinkingmahan=Mahan's Last Patrol=7,12,1944=Patrolling the waters around Leyte, USS Mahan is attacked by Japanese aircraft.
+lingayen=Lingayen Gulf=6,1,1945=An Allied cruiser division sent to support the landings at Lingayen Gulf is constantly attacked by enemy aircraft.
+tengo=Operation Ten-gō=5,4,1945=In a desperate attempt to defend Okinawa from invasion by the Allies, the battleship Yamato sorties out.
+bunkerhill=Bunker Hill=11,5,1945=The USS Bunker Hill has been performing carrier operations over Okinawa when several Japanese aircraft break out of the clouds above.

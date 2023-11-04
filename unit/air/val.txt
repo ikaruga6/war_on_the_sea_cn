@@ -1,0 +1,1 @@
+﻿{"unitName":"Val","weaponDescriptions":["Guns|3x Machine Gun","|","Payloads|bomb_ij_250kg_ap","|bomb_ij_250kg","|bomb_ij_60kg"],"payloadDisplayNames":["1x 250kg AP, 2x 60kg HE Bomb","1x 250kg HE, 2x 60kg HE Bomb","None"],"payloadIndexes":["0","1","2"],"endurance":[0.67,0.67,1]}

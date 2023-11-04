@@ -1,0 +1,20 @@
+﻿5
+Image=
+Image=
+Image=
+<b>Naval Gunnery</b>
+You have been assigned command of USS Northampton, a Northampton class heavy cruiser.
+
+Open Main Guns panel by either <KEY:LeftMouse> on the Main Guns button in the toolbar or use <KEY:Weap0>.
+
+<i>FIRING ORDERS DO NOT SHOW WHAT GUNS ARE CURRENTLY DOING, but rather what order you wish to give to the guns.
+Mouse over individual gun turret icons to see what they are currently doing.</i>
+
+Manual Firing
+1) <KEY:LeftMouse> on the MAN setting to switch to manual firing mode.
+2) <KEY:LeftMouse> on the FIRE button. Cursor becomes a weapon aim marker.
+3) Drag the marker about 3000 yd to the left of Northampton and <KEY:LeftMouse> on the map.
+Main guns will turn and fire at the position you designated.
+
+Experiment by <KEY:LeftMouse> on the FIRE button again and <KEY:LeftMouse> marker at the north edge of the map to fire in that direction; then repeat again for the south and east edges of the map.
+<KEY:LeftMouse> on CEASE to stop firing.

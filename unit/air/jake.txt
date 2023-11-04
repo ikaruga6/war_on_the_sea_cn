@@ -1,0 +1,1 @@
+﻿{"unitName":"Jake","weaponDescriptions":["Guns|1x Machine Gun"],"payloadDisplayNames":["None"],"payloadIndexes":["-1"],"endurance":[1]}

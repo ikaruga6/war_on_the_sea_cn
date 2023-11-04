@@ -1,0 +1,14 @@
+﻿Image=
+Image=
+Image=
+<b>Basic Torpedo Attack</b>
+Pan camera south to look at target ship (180 on the bearing indicator in top centre of screen).
+
+1) Use <KEY:TargetMode> to enter Target Mode (note the mouse pointer change).
+2) While in Target Mode <KEY:LeftMouse> on the target ship to set it as your target.
+4) Open Torpedo panel by either <KEY:LeftMouse> on the Torpedo button in the toolbar or use <KEY:Weap2>.
+5) Press FIRE to launch torpedoes at the target ship.
+
+Each torpedo mount will fire 1x torpedo (each) with a 0° spread at the target as per the sliders under Settings.
+
+When ready, use next arrow to continue.

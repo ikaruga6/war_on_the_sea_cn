@@ -1,0 +1,21 @@
+﻿Image=
+Image=
+Image=
+<b>Final Considerations</b>
+See RULES (under CAMPAIGN SUMMARY) and when playing an actual campaign it is important to keep in mind the following;
+- Ships must be purchased with COMMAND POINTS limiting the number and type that can be recruited and deployed.
+- Friendly ships sunk are lost permanently and take their COMMAND POINTS with them!
+- Enemy ships sunk may earn additional COMMAND POINTS.
+- Ships must rearm to replenish ammunition. Sail to a friendly port of sufficient rank and use the "Rearm" action.
+- Damaged or destroyed ship regions/compartments are permanent until ship is released from command for repairs.
+- Releasing damaged ships from command adds them to the REST & REPAIR list.
+- Enemy ships and aircraft will seek out and attack your forces. Convoys will need to be protected by escorts.
+- Ships carrying cargo are vulnerable in combat, suffering increased time to extinguish fires and fire spreading chance:
+		Troops 120%, Supplies 130%, Engineering 140%, Fuel 180%
+		Carriers on cooldown after launching or landing aircraft suffer 160%
+- Fuel can only be transported by oilers.
+- Destroyers, light cruisers and submarines can carry small numbers of troops allowing them to be used as fast transports.
+- Land based aircraft are automatically replaced over time if destroyed.
+- Ship based aircraft are permanently lost when destroyed and can be replaced by REST & REPAIR.
+- Enemy locations have scouts which can detect your nearby forces based on the rank of Port and Airfield and weather.
+- Every week, additional COMMAND POINTS and resources are gained based on information under RULES.

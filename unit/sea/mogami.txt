@@ -1,0 +1,1 @@
+﻿{"unitName":"Mogami","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["Mogami","Mikuma","Suzuya","Kumano"],"instancesInClass":["mogami","mikuma","suzuya","kumano"]}

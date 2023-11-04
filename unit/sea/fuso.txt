@@ -1,0 +1,1 @@
+﻿{"unitName":"Fuso","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["Fusō","Yamashiro"],"instancesInClass":["fuso","yamashiro"]}

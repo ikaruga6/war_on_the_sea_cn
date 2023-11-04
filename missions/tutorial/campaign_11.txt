@@ -1,0 +1,19 @@
+﻿Image={"path":"interface/tutorial/mapMarker.png","pos":{"x":176.0,"y":-48.0}}
+Image=
+Image=
+<b>Map Tools</b>
+
+Ruler:
+Use <KEY:MapRuler> and drag to measure the distance and bearing between two points on the map.
+
+
+Markers:
+Use <KEY:MapMarker> to place a time stamped map marker on the map.
+Use the text box to add a custom name to the marker.
+Use the slider to change the icon of the marker from shapes to
+ship or aircraft types to represent what has been marked.
+<KEY:LeftMouse> REMOVE to delete a marker.
+<KEY:LeftMouse> X in upper right of panel to close marker editor.
+
+<KEY:LeftMouse> on an exiting map marker will open it for editing.
+Mouse over a map marker to see its details.

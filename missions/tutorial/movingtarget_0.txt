@@ -1,0 +1,14 @@
+﻿6
+Image=
+Image=
+Image=
+<b>Hitting Moving Targets</b>
+In the previous lesson we learned how to use Manual firing to fire the various guns at fixed positions. This can be very useful for stationary, slow moving or very close range targets, but how do we hit a target 15 km away moving at 30 knots to the southeast?
+
+By knowing where the target will be at the time the shells land.
+The mathematics for calculating this is termed the solution (or firing solution), abbreviated to SOL.
+
+The solution is calculated by observing the target over time. A high solution means the target's course, speed and range have been determined to a high degree of accuracy. This doesn't guarantee shots will hit, but it does mean they are being fired to the right location.
+
+For this exercise you have been assigned command of USS Northampton, a Northampton Class heavy cruiser.
+There are several targets sailing in the area.

@@ -1,0 +1,20 @@
+﻿Image={"path":"interface/tutorial/dcPreview.png","pos":{"x":223.0,"y":55.0}}
+Image=
+Image=
+<b>Compartments and Subsystems</b>
+Mouse over a compartment or region to display additional information:
+
+The name of the compartment or region.
+Repair time and an icon to indicate if a damage control party is present.
+
+Integrity - status icons (fire, flooded, offline or damaged) and the current percent intact.
+Armor - thickness of vertical (belt) and horizontal (deck) armor.
+Torpedo Defense - how well a hull compartment can resist a hit from a torpedo.
+Ammunition - if a weapon system or magazine.
+
+Torpedo Defence Systems
+Some ships have a Torpedo Defense System (TDS) built into their hull. It is expressed as a percentage.
+Upon a torpedo hit to a compartment with a TDS:
+- chance for torpedo damage to be dealt to neighbouring compartments is reduced by half of the TDS value.
+- all damage dealt by the torpedo is reduced by the TDS value.
+- TDS value of compartment hit and its neighbours reduced to 0% as they are permanently destroyed by the torpedo impact.

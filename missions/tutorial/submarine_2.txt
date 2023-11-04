@@ -1,0 +1,14 @@
+﻿Image=
+Image=
+Image=
+<b>Torpedo Attack 2</b>
+Mouse over a torpedo room icon to display additional information:
+- Firing arc
+- Target position
+- Number of tubes loaded
+- Number of torpedo reloads available
+
+<i>Torpedo rooms can only fire up to the number of loaded tubes (irrespective of settings slider value).
+Torpedoes are reloaded one at a time per torpedo room.</i>
+
+Unlike warships which use directors to track targets, a submarine uses the control room. If knocked out or destroyed, targets cannot be tracked to build better firing solutions.

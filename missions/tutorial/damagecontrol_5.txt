@@ -1,0 +1,20 @@
+﻿Image={"path":"interface/tutorial/dcIcons2.png","pos":{"x":-314.0,"y":27.0}}
+Image=
+Image=
+<b>Compartment Colors</b>
+
+The color in which a compartment is highlighted indicates:
+
+					Damaged* - Maximum integrity has been reduced, cannot be repaired any higher.
+
+					Can Repair - Integrity is below maximum and can be repaired.
+
+					Offline - The subsystem here is no longer working until repaired.
+
+					Destroyed - Integrity has been reduced to 0. Any subsystem here is permanently offline. If within the hull
+					it is automatically flooded. Destroyed compartments cannot be repaired but damage control can be assigned to fight fires.
+					<i>Dynamic Campaigns: can only be restored by releasing the ship from your command. Damaged ship enters repair queue
+					and becomes available to recruit (fully restored) once repair time is completed.</i>
+
+* Once damaged, a compartment cannot be fully repaired back to 100 integrity. Only part (50%) of the damage is restored resulting in permanent loss of maximum integrity.
+Such Damaged compartments can only be fully restored by releasing a ship at a friendly port for Rest & Repair during a campaign.

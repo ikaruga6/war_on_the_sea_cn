@@ -1,0 +1,23 @@
+﻿
+<b><size=18>OPERATION WATCHTOWER</size></b>
+
+<b>August 7th 1942</b>
+Intelligence reports indicate enemy troops have landed on <color=#caa809>GUADALCANAL</color> and begun construction of an airfield.
+Once finished, long range bombers will be free to attack Allied supply lines between America and Australia and provide air cover for the Imperial Japanese Navy to operate farther south.
+
+Using <color=#caa809>NEW HEBRIDES</color> as a forward base, your orders are to take back <color=#caa809>GUADALCANAL</color>, build a major airfield there and clear the neighbouring islands of any hostile forces.
+
+
+You must:
+1) Build a rank 5 airfield on <color=#caa809>GUADALCANAL</color>.
+
+2) Take control of:
+   - <color=#caa809>GUADALCANAL</color>
+   - <color=#caa809>FLORIDA ISLANDS</color>
+
+3) Maintain control of:
+   - <color=#caa809>PORT MORESBY</color>
+   - <color=#caa809>MILNE BAY</color>
+   - <color=#caa809>RENNELL ISLAND</color>
+   - <color=#caa809>SANTA CRUZ ISLANDS</color>
+   - <color=#caa809>MALAITA</color>

@@ -1,0 +1,21 @@
+﻿Image={"path":"interface/tutorial/airFormation.png","pos":{"x":0.0,"y":-22.0}}
+Image=
+Image=
+<b>Attacks With Multiple Aircraft: Formation</b>
+Attacking with multiple aircraft can be done in 2 ways, as a formation or independently.
+
+Formation Attack
+Select ONLY the leader of a flight and order it to attack a target.
+Aircraft following this leader will hold formation and attack the target when the leader does.
+
+
+
+
+
+
+
+
+Used for aerial torpedo and bombing attacks where dropping ordnance in a pattern or spread is desired.
+Pattern and spread is based on formation and spacing of the flight. Modify this prior to ordering the attack.
+
+<i>Effective only when the flight is already in formation or will have sufficient time to reform before reaching the target.</i>

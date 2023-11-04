@@ -1,0 +1,22 @@
+﻿3
+Image=
+Image=
+Image=
+<b>Attacking Manually</b>
+In the previous exercise we examined attacking ships automatically with single aircraft or multiple aircraft using either;
+1) Formation attack by issuing an attack order to the flight leader only
+2) Independent attack by issuing an attack order to all aircraft in the flight
+
+Today we will perform fully manual attacks against shipping.
+
+Take control of "1. B17-F", target either of the ships and gently steer the formation leader towards the target.
+<i>Once a target is specified, note the bombsight and intercept markers on the mini map.
+They are available for any aircraft with bombs or aerial depth charges and indicate when to drop the payload when level bombing.</i>
+
+While approaching the target ship:
+1) <KEY:LeftMouse> the red tab to select all B17s in the group.
+2) <KEY:LeftMouse> the Bomb Doors toolbar button or <KEY:Weap5> to open the bomb doors of all selected aircraft.
+3) With gentle turns, steer formation so that bombsight marker will overlap the target's intercept maker.
+4) A few seconds before it overlaps, <KEY:LeftMouse> the All Drop toolbar button or <KEY:Weap6> for all selected aircraft to drop their payload.
+5) Once all bombs are dropped, close the bomb doors and watch the target ship to see if they scored a hit.
+<i>Note: unlike the other toolbar buttons, Bomb Doors <KEY:Weap5> and All Drop <KEY:Weap6> commands are always carried out by all selected aircraft.</i>

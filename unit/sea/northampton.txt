@@ -1,0 +1,1 @@
+﻿{"unitName":"Northampton","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["Northampton","Chester","Louisville","Chicago","Houston","Augusta"],"instancesInClass":["northampton","chester","louisville","chicago","houston","augusta"]}

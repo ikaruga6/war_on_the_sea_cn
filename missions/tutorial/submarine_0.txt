@@ -1,0 +1,18 @@
+﻿7
+Image=
+Image=
+Image=
+<b>Submarine Controls</b>
+For this training exercise, you have command of SS Tambor, a Tambor class submarine.
+USS Porter, a Porter class destroyer, is also available to be used in the latter part of this exercise to demonstrate attacking submarines with depth charges.
+
+The Orders panel <KEY:Orders> contains several submarine specific functions:
+P. Depth - Periscope Depth, sets depth to periscope depth.
+Scope - Periscope, raises or lowers the periscope.
+Dive! - Crash Dive, sets engine to full ahead and dives to maximum depth.
+Silent - Silent Running, stops all torpedo reloading and repairs to quieten the sub, making it harder to detect with passive sonar.
+E. Blow - Emergency Blow Ballast, attempts to surface a damaged sub. Cannot submerge again once used.
+Depth Slider - Adjusts depth.
+
+<i>Submarines use electric engines while submerged and travel slower than they would on the surface.
+When on the surface, diving a submarine requires about a minute or so to prepare for the dive.</i>

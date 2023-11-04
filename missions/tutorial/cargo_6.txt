@@ -1,0 +1,13 @@
+﻿Image=
+Image=
+Image=
+<b>Weather</b>
+Weather is dynamically generated based on meteorological conditions of the region, Trade winds and season.
+
+Use the map filter button (<KEY:ToggleWeather>) to turn on (and off) the weather overlay.
+
+Cloud icons are described under MAP KEY of the Campaign Summary and numbers indicate Sea State (or wind speed over land regions).
+
+- Bad weather reduces the detection ships and aircraft.
+- Strong winds increase the chance of fires spreading on board a ship.
+- High seas increase the chance of flooding spreading within a ship.

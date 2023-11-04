@@ -1,0 +1,14 @@
+﻿Image=
+Image=
+Image=
+<b>Follow Target</b>
+Select Clark as the Controlled Unit.
+Target Moffett. (Use <KEY:TargetMode> to enter Target Mode then <KEY:LeftMouse> Moffett map icon.
+<KEY:LeftMouse> Follow Target.
+Clark is now in position behind Moffett and will follow Moffett wherever it goes.
+
+You can get creative with using formations and follow target to swap your units about and place them in the desired positions prior to combat beginning.
+<i>Ordering multiple units to Follow the same unit will result in the units following each other as per a Line Ahead formation.</i>
+
+When finished, put the ships into Line Abreast with 500 yd spacing with Porter as the lead ship.
+Hint: <KEY:LeftMouse> Porter icon on map, <KEY:LeftMouse> Clark and Moffett names in the ship roster, set dropdown to Line Abreast, slider to 500, then <KEY:LeftMouse> Form Up button.

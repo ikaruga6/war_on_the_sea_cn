@@ -1,0 +1,19 @@
+﻿Image=
+Image=
+Image=
+<b>Taking Over Locations: Loading Cargo</b>
+A convoy named "TROOP" is already at port in NEW HEBRIDES.
+Another convoy, "CONSTRUCTION" is nearby to the east to be used later in this tutorial.
+
+Select "TROOP" by <KEY:LeftMouse> on the convoy icon  or use Next Sea/Air (<KEY:NextMobile>) button in toolbar to cycle though your groups to it.
+On the group manager panel, use the lower orders dropdown to select Manage Cargo, then <KEY:LeftMouse> the corresponding execute button to open the Cargo panel. <i><KEY:LeftMouse> this panel and drag to reveal the Cargo panel if needed.</i>
+
+The Cargo panel shows the location on the left, along with available resources there.
+If no location is within 15NM, no location data is shown and cargo cannot be transferred.
+To the right is the cargo on board a particular ship, only one type of cargo may be loaded onto a ship at a time.
+
+Load Troops onto the Type C3 ship by <KEY:LeftMouse> of the Arrow button in the Troops row, then use arrow buttons at top to cycle to the next ship. Repeat for the second Type C3 ship so that 2 in total are loaded with troops.
+Then load Supplies onto the other 2 Type C3 ships by <KEY:LeftMouse> of the Arrow button in the Supplies row for each of them respectively.
+
+Transfer of cargo is instantaneous, there is no time penalty for changing your mind and switching cargo back and forth.
+Once done, 2 ships should be loaded with troops and 2 ships with supplies. When finished, close the Cargo panel.

@@ -1,0 +1,21 @@
+﻿Image=
+Image=
+Image=
+<b>Locations</b>
+Locations are key strategic points on the map where ports and airbases exist (or can be built).
+
+The <KEY:LeftMouse> on your Home Port in NEW HEBRIDES in the previous step has selected it and opened the location panel.
+Resources available at a location are shown along with a conflict bar at the left of the location panel.
+
+Friendly Home Ports are the only locations where friendly ships may be recruited and new resources arrive throughout a campaign.
+Friendly aircraft may be launched from any friendly airfield or ships with aircraft facilities.
+
+Upgrading Ports & Airfields
+Resources listed under port and airfield icons are the cost to upgrade that facility.
+There are enough Supplies, Engineering and Fuel to upgrade both the Port and Airfield here to Rank 5.
+<KEY:LeftMouse> the Port icon and Airfield icon in to upgrade both of them to Rank 5.
+Rank 5 is the highest rank available in this campaign, the resource costs to upgrade are now blank.
+
+Upgrading them provides additional ship management options (ports) and aircraft (airfields).
+Also, higher rank facilities better detect nearby enemy forces and are more difficult for the enemy to take over.
+Details of these are outlined under the Campaign Summary / RULES.

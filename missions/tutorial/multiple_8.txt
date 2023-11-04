@@ -1,0 +1,13 @@
+﻿Image=
+Image=
+Image=
+<b>Controlling Formations In Combat</b>
+Take control of the lead Wildcat. The other 2 Wildcats, should be flying in formation with it. Gently steer left and right and note the other aircraft holding formation.
+
+For both Air and Sea units:
+- When leading formations it is best to perform gentle turns only and keeping speed at about 75% will allow any stragglers to catch up.
+- Applying any steering input or using the BREAK button under Orders panel will cause the Controlled Unit to immediately leave any formation it is in.
+
+Experiment with changing the formation type while in combat (leave spacing at 50 yd to keep the aircraft close to each other).
+
+Switch to the destroyers and Experiment with sailing in formation and changing the formation type (leave spacing at 500 yd to keep the ships close to each other).

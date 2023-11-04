@@ -1,0 +1,20 @@
+﻿Image=
+Image=
+Image=
+<b>Firing Orders 2</b>
+LOOSE / FULL / NARROW
+Adjusts fall of shot pattern to be more spread out (LOOSE), or tighter (NARROW).
+LOOSE: best used against a target with a poor firing solution, one that is manoeuvring or if you need a lucky hit quickly.
+NARROW: best used against a target with an excellent solution or that is stationary. FULL is the default spread.
+
+Shell Type AP / HE / SS
+AP: armor piercing, best used against heavily armoured ships.
+Although AP shells can punch through armor and explode within the target they have a smaller warhead.
+HE: high explosive, best used against "soft" unarmoured targets or to knock out subsystems such as directors and funnels.
+Explode on impact with a larger warhead, but cannot penetrate thicker armor.
+SS: star shell, an illumination round that drops a flare above the target position. Only 1 star shell per turret is fired.
+Illuminated targets are easier to see in dark conditions, giving a bonus to the solution calculation against them.
+
+When ready, end the mission;
+1) Either <KEY:LeftMouse> on the Menu button in the toolbar or use <KEY:Menu>.
+2) <KEY:LeftMouse> on the QUIT button to end the mission.

@@ -1,0 +1,19 @@
+﻿Image=
+Image=
+Image=
+<b>Torpedo Attack</b>
+While submerged, the Binoculars view cannot be used unless:
+- submarine is at or above periscope depth
+- periscope is raised and functional
+
+<KEY:LeftMouse> Scope button to raise the periscope and use <KEY:Binoculars> or Binoculars button on Secondary Toolbar to enter periscope view.
+
+Target the old oiler nearby to the west (90 on the camera bearing indicator) by entering Target Mode (<KEY:TargetMode>) and <KEY:LeftMouse> on the freighter (or its map icon).
+
+Use <KEY:Weap3> to open the torpedo weapon panel.
+<KEY:LeftMouse> the rear torpedo room icon to deselect it so as to only fire the forward torpedo tubes.
+Set both sliders under SETTINGS to 3 in order to fire 3x torpedoes with a 3° spread.
+<KEY:LeftMouse> FIRE to fire the torpedoes.
+
+Use <KEY:Binoculars> or Binoculars button on Secondary Toolbar to leave periscope view and watch the torpedo attack.
+<i>Note that torpedoes fired from submarines run a few hundred yards, arm their warhead, then turn using a gyro to their final destination. Torpedo attacks with a low gyro angle off the bow or stern are the most accurate.</i>

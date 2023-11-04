@@ -1,0 +1,19 @@
+﻿Image=
+Image=
+Image=
+<b>Managing Sea Groups 2</b>
+The lower commands perform specific actions for one or more selected ships:
+Manage Cargo - open the cargo panel. Described in next tutorial.
+Launch Aircraft - launch one or more planes from the highlighted ship.
+Shore Bombardment - shell a location.
+Unload All Cargo - all ships unload their cargo at the closest location within about 15 NM.
+Rearm Ships - replenish ammunition and aircraft of all ships in group if within about 15 NM of a friendly port of sufficient rank.
+
+All group setup commands and actions are resolved instantaneously.
+
+Aircraft carriers incur a cooldown after launching planes (based on number) and cannot launch again until it has expired. Carriers on cooldown between launches are considered vulnerable from performing Air Operations.
+
+Performing a shore bombardment requires a Battleship, Battlecruiser or Heavy Cruiser. It damages airfields and ports and may decrease their rank. Expends 1/3 of remaining ammunition and may be performed up to 3 times.
+
+Mouse over a ship icon within the Sea Group will display its current ammunition, cargo and any destroyed compartments.
+Destroyed compartments can only be repaired by Release of the ship at a Home Port, see the REPAIR tab on the Campaign Summary.

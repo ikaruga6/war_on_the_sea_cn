@@ -1,0 +1,12 @@
+﻿Image=
+Image=
+Image=
+<b>Controlling Aircraft</b>
+Controlling aircraft is the same as ships, with the exception that they can change altitude (likewise, submarines can change depth).
+Use <KEY:MoveUp> and <KEY:MoveDown> to change altitude.
+Use <KEY:IncreaseSpeed>, <KEY:DecreaseSpeed>, <KEY:LeftRudder>, <KEY:RightRudder> and <KEY:ZeroControls> to also adjust speed and steering.
+You can also set speed, turning and altitude directly from the Orders panel <KEY:Orders>.
+
+Practice
+1) Changing altitude, speed and turning.
+2) Setting navigation waypoints by entering Navigation Mode <KEY:NavigationMode> and <KEY:LeftMouse> on the map.

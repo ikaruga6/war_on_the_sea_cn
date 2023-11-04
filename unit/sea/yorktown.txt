@@ -1,0 +1,1 @@
+﻿{"unitName":"Yorktown","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["Yorktown","Enterprise","Hornet"],"instancesInClass":["yorktown","enterprise","hornet"]}

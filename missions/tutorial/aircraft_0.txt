@@ -1,0 +1,19 @@
+﻿5
+Image=
+Image=
+Image=
+<b>Aircraft</b>
+Aircraft can be damaged by machine guns, anti-aircraft fire and flak bursts.
+They are destroyed by collisions with ships, sea and terrain.
+
+A close range flak burst is immediately fatal to any aircraft.
+Machine guns, anti-aircraft fire and non-fatal flak bursts count as a single hit on aircraft.
+Hits have a chance to be absorbed causing no damage.
+Chance to absorb a hit is based on aircraft size and whether it has armor or self-sealing fuel tanks.
+Each damaging hit produces a smoke trail, with the 3rd damaging hit being fatal to the aircraft.
+
+US heavy bombers have the highest damage absorb chance, allowing them to take a lot of battle damage.
+Japanese fighters have none, making them very fragile!
+
+<i>Collisions - aircraft cannot collide with other aircraft.
+Friendly fire - aircraft cannot be hit by friendly machine gun fire.</i>

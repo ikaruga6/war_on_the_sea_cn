@@ -1,0 +1,19 @@
+﻿Image=
+Image=
+Image=
+<b>Perform Attacks</b>
+Take control of the aircraft "2. Avenger" (Torpedo Bomber).
+HINT: <KEY:LeftMouse> on the map icon for this aircraft or <KEY:LeftMouse> on the arrow next to its name in the Roster.
+Target ship 2. and use <KEY:FollowCam> or button in Secondary Toolbar to set camera to lock onto the target. Then use <KEY:AttackTarget> to begin the attack.
+
+All 3 aircraft of the flight will turn, automatically open bomb doors and attack the target. Note they hold formation and spacing during the attack. Changing formation and spacing prior to an attack provides many options to spread out (or narrow) attacks and can help score hits on manoeuvring ships or avoid heavy anti-aircraft fire.
+
+Note that after the attack, the aircraft stay in formation and follow a waypoint to clear the area.
+
+Next, <KEY:LeftMouse> the any blue colored tab to select all aircraft in this group.
+Target ship 1. then use <KEY:AttackTarget> to order all selected aircraft to attack (an Independent attack).
+
+As there are no torpedoes left, the 3 aircraft will turn and strafe the target instead.
+Note they are now performing an Independent attack, they no longer hold formation, act independently against the target and have left the group.
+
+Watch the strafing attack unfold then end this exercise when ready.

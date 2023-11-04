@@ -1,0 +1,1 @@
+﻿{"unitName":"Bagley","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["Bagley","Blue","Helm","Mugford","Ralph Talbot","Henley","Patterson","Jarvis"],"instancesInClass":["bagley","blue","helm","mugford","ralph talbot","henley","patterson","jarvis"]}

@@ -1,0 +1,1 @@
+﻿{"unitName":"Tambor","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["Tambor","Tautog","Thresher","Triton","Trout","Tuna","Gar","Grampus","Grayback","Grayling","Grenadier","Gudgeon"],"instancesInClass":["tambor","tautog","thresher","triton","trout","tuna","gar","grampus","grayback","grayling","grenadier","gudgeon"]}

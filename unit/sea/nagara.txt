@@ -1,0 +1,1 @@
+﻿{"unitName":"Nagara","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["Nagara","Isuzu","Natori","Yura","Kinu","Abukuma"],"instancesInClass":["nagara","isuzu","natori","yura","kinu","abukuma"]}

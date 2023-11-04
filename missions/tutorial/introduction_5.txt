@@ -1,0 +1,21 @@
+﻿Image=
+Image=
+Image=
+<b>Action Report</b>
+Action Report lists all ships and aircraft involved in the engagement and whether they were damaged, sunk or shot down.
+It is automatically displayed after all combat engagements.
+
+To view it during combat:
+<KEY:LeftMouse> Menu icon in Main Toolbar at bottom centre (<KEY:Menu>) to open Menu panel then use REPORT button.
+Game is paused while viewing the report.
+
+Ending Combat;
+1) Either <KEY:LeftMouse> on the Menu button in the toolbar or use <KEY:Menu>.
+2) <KEY:LeftMouse> on the QUIT and CONFIRM buttons to end the mission.
+
+<i>Note: When enemy units are present, RETREAT button must be used for the outcome to count.
+Using RETREAT immediately ceases all hostile actions by your units.
+Timer must expire prior to using LEAVE (and CONFIRM) and any hostile action by your units will reset the retreat timer.</i>
+
+WARNING: Ships burning at combat end may automatically be scuttled based on overall flooding and number of fires.
+Extinguish as many fires as possible prior to leaving a combat engagement.

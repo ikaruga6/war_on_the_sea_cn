@@ -1,0 +1,19 @@
+﻿Image={"path":"interface/tutorial/multipleHighlighted.png","pos":{"x":226.0,"y":21.0}}
+Image=
+Image=
+<b>Change Sea Formation</b>
+3 destroyers, Porter, Clark and Moffett are in line abreast formation with 500m spacing.
+<i>Remember to use map commands if needed:
+<KEY:MouseWheel> or <KEY:ZoomIn> and <KEY:ZoomOut> to zoom the map and <KEY:LeftMouse> and drag to pan view as desired.
+Use <KEY:LockMap> to lock map on unit camera is following. Lock is broken if map is dragged.</i>
+
+<KEY:LeftMouse> the arrow icon in Porter's tab (or map icon) to assume control of Porter.
+SHIFT + <KEY:LeftMouse> and drag a box on map to select Clark and Moffett.
+<i>Porter map icon should be yellow (Controlled) and Clark and Moffett green (Selected).</i>
+
+Open the Orders Panel (<KEY:Orders>) and <KEY:LeftMouse> on the Form Up button.
+The 3 destroyers are immediately placed into Line Ahead formation with spacing of 500 metres as per by the dropdown and slider settings and assigned a new group color.
+
+Experiment with the dropdown and slider to try different formations and spacing settings.
+When finished, put the ships into Line Abreast with 500 yd spacing with Porter as the lead ship.
+Hint: <KEY:LeftMouse> Porter icon on map, <KEY:LeftMouse> Clark and Moffett names in the ship roster, set dropdown to Line Abreast, slider to 500, then <KEY:LeftMouse> Form Up button.

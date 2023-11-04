@@ -1,0 +1,15 @@
+﻿Image=
+Image=
+Image=
+Manual Depth Charge Attacks
+Depth charges may be dropped manually by sailing over an enemy submarine and doing the following:
+1) Use <KEY:Weap4> to open the Depth Charges weapon panel.
+2) Use the SETTINGS sliders to set the number of repeats and time interval between repeats.
+3) <KEY:LeftMouse> depth charge icons to select one or more to use.
+4) Use FIRE to begin dropping depth charges.
+
+Depth Charge Icon
+Mouse over the depth charge icon to view number of depth charges remaining.
+The number of repeats remaining and progress during each repeat of dropping depth charges are shown on the depth charge icon.
+
+Continue to pursue the enemy submarine until it is sunk or end this exercise when ready.

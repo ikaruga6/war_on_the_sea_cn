@@ -1,0 +1,1 @@
+﻿{"unitName":"Wasp","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["Wasp"],"instancesInClass":["wasp"]}

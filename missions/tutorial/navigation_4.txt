@@ -1,0 +1,13 @@
+﻿Image={"path":"interface/tutorial/typeToggle.png","pos":{"x":0.0,"y":-127.0}}
+Image=
+Image=
+<b>Switching Between Sea & Air units</b>
+A Wildcat from the USS Enterprise is in the area, so we can switch to it and practice controlling aircraft.
+
+Zoom the map out until you can see both the aircraft and USS Porter. Be sure not to be in Target Mode <KEY:TargetMode> or Navigation Mode <KEY:NavigationMode>, then <KEY:LeftMouse> on aircraft icon to immediately switch the camera to it and assume direct control. You may also <KEY:LeftMouse> directly on units in the 3D view for the same effect.
+
+<i>Note that <KEY:LeftMouse> on an enemy unit will move the camera to it, but maintain the original Controlled Unit. </i>
+
+Alternatively;
+1) Use Switch Sea/Air toggle icon at bottom left to switch between Air or Sea units.
+2) <KEY:LeftMouse> on the small arrow icon to go to that unit and assume direct control of it.

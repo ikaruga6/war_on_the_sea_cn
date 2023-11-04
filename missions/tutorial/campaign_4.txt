@@ -1,0 +1,18 @@
+﻿Image=
+Image=
+Image=
+<b>Recruiting Ships</b>
+<KEY:LeftMouse> NEW SEA button below the port icon of NEW HEBRIDES.
+A new panel opens where you may build a new Sea group, along with the Unit Viewer to select individual ships.
+
+Use the Unit Viewer to select YORKTOWN class carrier.
+Use the Names in Class dropdown to select Enterprise then use Add Unit (<KEY:UnitIDClassifyAs>) to add Enterprise to the Sea group.
+Enterprise appears in the group along with the total point cost required to recruit the group.
+
+When selecting individual ship names in the Unit Viewer, some may not be available based on the prefix in front of their name:
+(C) - Command. This ship is already under your command.
+(U) - Unavailable. This ship is not available in the campaign. It is already sunk or not in service at the time.
+(S) - Sunk. This ship has been sunk during the course of the campaign.
+(R8) - Repair. This ship is under repair and will be available to recruit in the number of days indicated, in this example 8.
+
+Yorktown is listed as "(U) Yorktown" as this ship was lost at the Battle of Midway and is not available for this campaign.

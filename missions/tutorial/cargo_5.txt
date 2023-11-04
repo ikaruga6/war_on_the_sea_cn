@@ -1,0 +1,21 @@
+﻿Image={"path":"interface/tutorial/encounter.png","pos":{"x":398.0,"y":-18.0}}
+Image=
+Image=
+<b>Encounters & Attacking Enemy Units (disabled during tutorial)</b>
+When units of opposing sides detect each other (or are very close) an encounter occurs.
+Example to right shows a friendly Wildcat group detecting a Japanese convoy.
+Time is paused and campaign cannot continue until an encounter is resolved.
+	BEGIN - Enter the 3D world and play out the battle.
+	IGNORE - Air units may ignore Sea units and simply report their position and leave.
+	SAVE - Save the campaign prior to starting the engagement.
+	GO TO - Select the friendly group involved and zoom map to position of engagement.
+
+After a battle, contact is lost for a grace period of 60 minutes.
+The enemy may leave the area or remain and continue searching for your forces to re-engage.
+All ammunition expended as well as destroyed regions of Sea units persist until rearmed or repaired.
+Sunk or scuttled Sea units are permanently lost by both sides.
+
+If not engaged in battle, hostile contacts remain visible on the map for several hours, fading over time.
+
+IMPORTANT: Using TACTICAL button on a friendly Sea or Air group will place nearby enemy units
+(detected or not) into the world, allowing them to be attacked.

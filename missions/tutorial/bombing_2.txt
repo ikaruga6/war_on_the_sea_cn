@@ -1,0 +1,17 @@
+﻿Image=
+Image=
+Image=
+<b>Bombing & Advanced Tips</b>
+When using <KEY:AttackTarget> (or the Attack button on Orders panel) to issue an attack target command, the altitude your bomber is currently at will determine how it attacks:
+- Above 2400ft (900m): Dive bomb if it is a dive bomber, otherwise level bomb
+- Below 900ft (300m): Skip bomb
+- Otherwise: Level bomb
+
+Advanced Tips
+- A flight of aircraft may be split into smaller groups by ordering several members to "Form Up" on the controlled aircraft.
+- Attack ships from multiple directions when possible to avoid anti-aircraft fire.
+- Use Independent attacks on slow or stationary targets.
+- Spread out Formation attacks against fast or manoeuvring targets.
+- Issuing a Formation attack using guns or rockets will automatically become an Independent attack; as firing guns or rockets in a pattern around a target makes little sense.
+
+Finally, use the Battle Editor to set up aircraft attacks against various ships and practice tactics against moving targets and avoiding anti-aircraft fire.

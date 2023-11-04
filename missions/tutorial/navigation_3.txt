@@ -1,0 +1,18 @@
+﻿Image=
+Image=
+Image=
+<b>Map and Waypoints</b>
+Open/Close the Minimap with <KEY:MapSize>.
+Open/Close full screen map with <KEY:Map>.
+When mouse is over map, use <KEY:MouseWheel> or <KEY:ZoomIn> and <KEY:ZoomOut> to zoom.
+<KEY:LeftMouse> anywhere on the map and drag to pan view as desired.
+Use <KEY:LockMap> to lock map on unit camera is following. Lock is broken if map is dragged.
+
+Placing Waypoints
+Once familiar with the map use <KEY:NavigationMode> or button on Secondary Toolbar (bottom right) to enter Navigation Mode. Note the cursor changes to a ship's wheel. <KEY:LeftMouse> anywhere on the map to place one or more waypoints for the Controlled Unit to immediately steer towards and follow (course displayed as lines).
+Use <KEY:NavigationMode> again or <KEY:Cancel> to exit Navigation Mode.
+
+Use <KEY:Orders> to open the Orders panel and note that the Controlled Unit is "Following Waypoints".
+Steering left/right will immediately cancel any plotted course or break formation if following another unit.
+
+<i>Any steering input will cancel a plotted course or break formation if unit is following another.</i>

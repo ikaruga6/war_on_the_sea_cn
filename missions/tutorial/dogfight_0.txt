@@ -1,0 +1,19 @@
+﻿3
+Image=
+Image=
+Image=
+<b>Dogfights</b>
+In the previous lesson we examined air attacks on shipping. Today we will cover shooting down other aircraft in dogfights. You have been assigned 2 Wildcats for this mission.
+
+Select your wingman by SHIFT + <KEY:LeftMouse> and drag on map or <KEY:LeftMouse> the colored group tab, its Roster tab, or entering selection mode and <KEY:LeftMouse> on its map icon.
+
+A flight of 3 simulated Zeros are in the area flying in a large circle. They will not attack.
+Wait for a moment for one of your pilots to spot them.
+
+Once spotted:
+Use <KEY:TargetNearestAir> to target closest enemy aircraft.
+Use <KEY:AttackTarget> for all selected aircraft to being attacking, note they leave their group and attack independently.
+Use <KEY:FollowCam> to watch the action unfold.
+
+At any time, use <KEY:TargetNearestAir> to target nearest enemy aircraft then <KEY:AttackTarget> to reprioritise attacking closest target.
+As soon as a target is shot down, another enemy aircraft will automatically be engaged.

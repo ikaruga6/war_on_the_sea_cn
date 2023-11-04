@@ -1,0 +1,20 @@
+﻿Image=
+Image=
+Image=
+<b>Summary</b>
+- Close a group using the X in upper right prior to creating a new one.
+- Create new groups using the Unit Viewer Add Unit (<KEY:UnitIDClassifyAs>) button (or add ships to current group).
+- Select a group by <KEY:LeftMouse> on the map icon or use Next Sea/Air button in toolbar (<KEY:CustomNextMobile>).
+- <KEY:LeftMouse> and drag to move a group on the map.
+- Use COURSE and <KEY:LeftMouse> on the map to place waypoints (COURSE again or <KEY:Cancel> to exit navigation mode).
+- Delete an Air group by reducing the number of aircraft to 0.
+- Delete a Sea group by emptying it; <KEY:LeftMouse> to select all ships in it and use REMOVE.
+- Switch positions of 2 ships in a Sea group by <KEY:LeftMouse> to select them and use SWAP.
+
+Sensors & Detection
+Time of day, weather and sea state dramatically impact visual, radar and sonar detection ranges. As a very rough guide;
+Ships detect other ships visually at a range equal to: sum of the ships visual horizons * lowest visual detection value * visibility.
+You may have to experiment with initial detection ranges when switching from daylight and good weather to night and/or bad weather.
+
+Performance
+The total number of aircraft and ships in a battle is currently unlimited, however for best game performance it is not recommended to exceed 20 ships and 20 aircraft in a single battle.

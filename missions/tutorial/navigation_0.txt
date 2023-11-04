@@ -1,0 +1,21 @@
+﻿7
+Image={"path":"interface/tutorial/infoPanel.png","pos":{"x":0.0,"y":30.0}}
+Image={"path":"interface/tutorial/mainToolbar.png","pos":{"x":0.0,"y":-86.0}}
+Image={"path":"interface/tutorial/secondToolbarFull.png","pos":{"x":0.0,"y":-172.0}}
+<b>Navigation & Controlling Units</b>
+You have command of USS Porter, a Porter class destroyer. A Wildcat is also in the area for use later.
+
+Controlled Unit: The unit (ship or aircraft) you currently have direct control over, in this case USS Porter.
+Blue text above the Main Toolbar shows Controlled Unit name, speed, heading and depth/altitude if applicable.
+To the right, red text shows information about the Controlled Unit's current target (if it has one).
+
+
+
+Main Toolbar
+The toolbar at bottom centre shows icons dependent on the Controlled Unit.
+Weapon and sensor icons are only displayed for units which possess that particular weapon or sensor.
+
+
+
+Secondary Toolbar
+Toolbar at bottom right contains buttons for most other commands with tooltips describing them.

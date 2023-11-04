@@ -1,0 +1,5 @@
+﻿Image={"path":"interface/tutorial/rosterSort.png","pos":{"x":0.0,"y":-40.0}}
+Image=
+Image=
+<b>Roster Sorting</b>
+Note that units in the roster can be manually sorted. <KEY:LeftMouse> and drag unit tabs to reorder the roster list. Changing the order sorts units and impacts their positions in formations. For example, rearranging the list and placing those units in Line Ahead formation places ships in positions as indicated by the roster list order.

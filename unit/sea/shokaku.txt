@@ -1,0 +1,1 @@
+﻿{"unitName":"Shōkaku","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["Shōkaku","Zuikaku"],"instancesInClass":["shokaku","zuikaku"]}

@@ -1,0 +1,18 @@
+﻿Image=
+Image=
+Image=
+<b>Taking Over Locations: Transporting Cargo</b>
+<KEY:LeftMouse> COURSE and plot a course for TROOP to RENNELL ISLAND.
+Use <KEY:MouseWheel> to zoom map in/out if needed to place the final destination close to the location icon for RENNELL ISLAND.
+
+<KEY:LeftMouse> Time Max (<KEY:TimeMax>) to maximise time compression and watch the convoy sail to RENNELL ISLAND.
+<KEY:LeftMouse> Pause (<KEY:TimePause>) once convoy arrives at their destination.
+
+Select "Unload All Cargo" from the lower orders dropdown and <KEY:LeftMouse> corresponding execute button to immediately unload all cargo at this location. <i>Note that selecting Manage Cargo from the lower orders dropdown and opening the Cargo panel could also be used to manually unload each ship.</i>
+
+<i>If TROOP is not close enough, a message will appear above the toolbar.
+If this is the case, use <KEY:MouseWheel> to zoom map in/out and repeat the steps above to sail closer to the location.</i>
+
+Once Troops and Supplies are unloaded, plot a course for TROOP back to NEW HEBRIDES.
+
+With friendly troops landed at an enemy location, a ground war for that location has begun.

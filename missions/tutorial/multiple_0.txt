@@ -1,0 +1,21 @@
+﻿11
+Image={"path":"interface/tutorial/roster.png","pos":{"x":230.0,"y":-88.0}}
+Image=
+Image=
+<b>Briefing</b>
+<i>Do not use START button in upper centre to begin combat until instructed to do so.</i>
+This screen is the pre-combat briefing. It is the full screen tactical map but time is PAUSED, in order to place units, set their formation and issue some initial basic orders prior to combat starting.
+- All tutorials, except this one, bypass the briefing for convenience but for all other battles and campaign engagements it is presented.
+- Commands issued while in the briefing are carried out immediately, such as changing formations and placement of units.
+- Menu panel outlines environmental conditions for the upcoming battle.
+
+Unit Roster
+All friendly units in combat are displayed in the Roster above the Message Log at lower left.
+- Controlled Unit is always highlighted (yellow).
+- Star icon indicates a Lead Unit that is not in formation or following another.
+- Colored tabs (red) shows Lead Unit and all other units folling it.
+- Additional units can be selected/deselected by <KEY:LeftMouse> on their tab.
+- <KEY:LeftMouse> on the arrow icon within the tab will switch control to that unit.
+- <KEY:LeftMouse> colored tab (red) will select all units within a group.
+- Switch Sea/Air button toggles between Sea and Air units.
+- Select All button selects or deselects all units shown.

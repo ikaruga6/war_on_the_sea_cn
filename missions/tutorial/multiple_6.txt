@@ -1,0 +1,16 @@
+﻿Image=
+Image=
+Image=
+<b>Air Formations</b>
+A flight of 3 Wildcats are in the area, so we can switch to them next.
+
+Switch control to a Wildcat.
+[Hint] Zoom the map out until you can see the aircraft. Be sure not to be in Target Mode <KEY:TargetMode>, Navigation Mode <KEY:NavigationMode> or Selection Mode <KEY:SelectMode>, then <KEY:LeftMouse> on the aircraft icon to take direct control.
+
+Alternatively; Use the Switch Sea/Air toggle below the roster list to switch between the Air or Sea roster. Then <KEY:LeftMouse> on the small arrow icon of 1. Wildcat to go to that unit and assume direct control of it.
+
+Setting air formations and selecting air units works exactly as it did for Sea formations.
+Practice adjusting the air formation and spacing (you may want to look back over the last 3 pages).
+
+When finished, put the aircraft into Vic formation with 50 yd spacing with 1. Wildcat as the lead.
+Hint: <KEY:LeftMouse> 1. Wildcat icon on map, <KEY:LeftMouse> tabs of 2. Wildcat & 3. Wildcat in the air roster to select them, then set dropdown to Vic, slider to 50 and <KEY:LeftMouse> Form Up button.

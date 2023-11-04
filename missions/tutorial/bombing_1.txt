@@ -1,0 +1,17 @@
+﻿Image=
+Image=
+Image=
+<b>Skip Bombing</b>
+Skip bombing involves dropping bombs at very low altitude so that they skip like a stone across the water to their target.
+
+Take control of the aircraft "4. Dauntless" (Dive Bomber) which is to the north and already at low altitude.
+Altitude can be set manually using <KEY:MoveDown>, <KEY:MoveUp> or use the altitude slider on the Orders panel.
+
+Staying around 150 ft altitude, target one of the ships and fly straight towards it.
+<i>Using Chase Camera or Look At Target may help with lining up the attack.</i>
+
+At low altitude and about 750-1000 yd from target, use <KEY:Weap1> to drop bombs.
+They should strike the water, skip towards the target and may fall short, bounce over or hopefully strike the target.
+
+It takes practice and some luck to consistently score hits with this technique.
+However it does involve flying straight and low at enemy ships, exposing the attacker to anti-aircraft fire.

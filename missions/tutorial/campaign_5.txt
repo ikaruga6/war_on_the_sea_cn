@@ -1,0 +1,19 @@
+﻿Image={"path":"interface/tutorial/formation.png","pos":{"x":46.0,"y":-20.0}}
+Image=
+Image=
+<b>Recruiting Ships 2</b>
+Enterprise will need an escort, so let's add an Atlanta class cruiser and a Tambor class submarine;
+- Select an Atlanta class cruiser from the Unit Viewer and use Add Unit (<KEY:UnitIDClassifyAs>) to add it to the Sea group.
+- Finally select any Tambor class submarine from the Unit Viewer and use Add Unit (<KEY:UnitIDClassifyAs>) to add it to the Sea group.
+
+Adding Tambor was not a good idea! The submarine is slow and decreases the speed of the task force.
+Remove Tambor from the group by <KEY:LeftMouse> on the Tambor icon within the group to select it, then <KEY:LeftMouse> REMOVE.
+
+Change Formation
+<KEY:LeftMouse> the formation icon to preview the current group formation.
+Note that Enterprise is ahead of Atlanta in Line Ahead formation.
+<KEY:LeftMouse> Enterprise and Atlanta icons within the group to select them and <KEY:LeftMouse> SWAP to switch their positions.
+Atlanta is now in the lead.
+
+<KEY:LeftMouse> DONE to pay the COMMAND POINT cost and recruit the ships.
+The newly created task force is automatically selected and the group manager panel opens.
