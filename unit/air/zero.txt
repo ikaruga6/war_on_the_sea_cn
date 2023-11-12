@@ -1,1 +1,1 @@
-﻿{"unitName":"Zero","weaponDescriptions":["Guns|2x 20mm Cannon","|2x Machine Gun"],"payloadDisplayNames":["None"],"payloadIndexes":["-1"],"endurance":[1]}
+﻿{"unitName":"零式战机","weaponDescriptions":["机枪|2x 20mm Cannon","|2x 机枪"],"payloadDisplayNames":["None"],"payloadIndexes":["-1"],"endurance":[1]}

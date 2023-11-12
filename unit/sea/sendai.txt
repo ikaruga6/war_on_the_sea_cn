@@ -1,1 +1,1 @@
-﻿{"unitName":"Sendai","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["Sendai","Jintsū","Naka"],"instancesInClass":["sendai","jintsu","naka"]}
+﻿{"unitName":"川内","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["川内","神通","那珂"],"instancesInClass":["sendai","jintsu","naka"]}

@@ -1,1 +1,1 @@
-﻿{"unitName":"Agano","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["Agano","Noshiro","Yahagi","Sakawa"],"instancesInClass":["agano","noshiro","yhagi","sakawa"]}
+﻿{"unitName":"阿贺野","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["阿贺野","能代","矢矧","酒匂"],"instancesInClass":["agano","noshiro","yhagi","sakawa"]}

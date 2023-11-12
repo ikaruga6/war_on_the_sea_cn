@@ -1,1 +1,1 @@
-﻿{"unitName":"Somers","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["Somers","Warrington","Sampson","Davis","Jouett"],"instancesInClass":["somers","warrington","sampson","davis","jouett"]}
+﻿{"unitName":"索莫斯","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["DD-381 索莫斯","DD-383 沃灵顿","DD-394 桑普森","DD-395 戴维斯","DD-396 朱厄特"],"instancesInClass":["somers","warrington","sampson","davis","jouett"]}

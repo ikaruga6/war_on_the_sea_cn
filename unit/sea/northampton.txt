@@ -1,1 +1,1 @@
-﻿{"unitName":"Northampton","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["Northampton","Chester","Louisville","Chicago","Houston","Augusta"],"instancesInClass":["northampton","chester","louisville","chicago","houston","augusta"]}
+﻿{"unitName":"北安普顿","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["CA-26 北安普顿","CA-27 切斯特","CA-28 路易斯维尔","CA-29 芝加哥","CA-30 休斯顿","CA-31 奥古斯塔"],"instancesInClass":["northampton","chester","louisville","chicago","houston","augusta"]}

@@ -1,1 +1,1 @@
-﻿{"unitName":"Pete","weaponDescriptions":["Guns|1x Machine Gun"],"payloadDisplayNames":["None"],"payloadIndexes":["-1"],"endurance":[1]}
+﻿{"unitName":"零式水观","weaponDescriptions":["机枪|1x 机枪"],"payloadDisplayNames":["None"],"payloadIndexes":["-1"],"endurance":[1]}

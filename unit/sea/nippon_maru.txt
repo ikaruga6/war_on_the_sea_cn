@@ -1,1 +1,1 @@
-﻿{"unitName":"Nippon Maru","weaponDescriptions":["Type 93 13.2mm Guns"]}
+﻿{"unitName":"日本丸","weaponDescriptions":["Type 93 13.2mm Guns"]}

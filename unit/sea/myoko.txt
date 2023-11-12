@@ -1,1 +1,1 @@
-﻿{"unitName":"Myōkō","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["Myōkō","Nachi","Haguro","Ashigara"],"instancesInClass":["myoko","nachi","haguro","ashigara"]}
+﻿{"unitName":"妙高","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["妙高","那智","羽黑","足柄"],"instancesInClass":["myoko","nachi","haguro","ashigara"]}

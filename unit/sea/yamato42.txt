@@ -1,1 +1,1 @@
-﻿{"unitName":"Yamato (1942)","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["Yamato","Musashi"],"instancesInClass":["yamato","musashi"]}
+﻿{"unitName":"大和(1942)","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["大和(1942)","武藏(1942)"],"instancesInClass":["yamato","musashi"]}

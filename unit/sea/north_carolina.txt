@@ -1,1 +1,1 @@
-﻿{"unitName":"North Carolina","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["North Carolina","Washington"],"instancesInClass":["north carolina","washington"]}
+﻿{"unitName":"北卡罗来纳","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["BB-55 北卡罗来纳","BB-56 华盛顿"],"instancesInClass":["north carolina","washington"]}

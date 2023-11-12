@@ -1,1 +1,1 @@
-﻿{"unitName":"Zero (Kamikaze)","weaponDescriptions":["Guns|2x 20mm Cannon","|2x Machine Gun","|","Payloads|bomb_ij_250kg"],"payloadDisplayNames":["Kamikaze"],"payloadIndexes":["0"],"endurance":[0.67]}
+﻿{"unitName":"零式战机(神风)","weaponDescriptions":["机枪|2x 20mm Cannon","|2x 机枪","|","挂载|bomb_ij_250kg"],"payloadDisplayNames":["Kamikaze"],"payloadIndexes":["0"],"endurance":[0.67]}

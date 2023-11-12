@@ -1,1 +1,1 @@
-﻿{"unitName":"Zuihō","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["Zuihō","Shōhō"],"instancesInClass":["zuiho","shoho"]}
+﻿{"unitName":"瑞凤","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["瑞凤","祥凤"],"instancesInClass":["zuiho","shoho"]}

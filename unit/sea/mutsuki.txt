@@ -1,1 +1,1 @@
-﻿{"unitName":"Mutsuki","namesInClass":["Mutsuki","Kisaragi","Uzuki","Satsuki","Minazuki","Fumizuki","Nagatsuki","Kikuzuki","Mikazuki","Mochizuki","Yūzuki","Yayoi"],"instancesInClass":["mutsuki","kisaragi","uzuki","satsuki","minazuki","fumizuki","nagatsuki","kikuzuki","mikazuki","mochizuki","yuzuki","yayoi"]}
+﻿{"unitName":"睦月","namesInClass":["睦月","如月","卯月","皋月","水无月","文月","长月","菊月","三日月","望月","夕月","弥生"],"instancesInClass":["mutsuki","kisaragi","uzuki","satsuki","minazuki","fumizuki","nagatsuki","kikuzuki","mikazuki","mochizuki","yuzuki","yayoi"]}

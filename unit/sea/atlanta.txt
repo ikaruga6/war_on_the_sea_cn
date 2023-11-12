@@ -1,1 +1,1 @@
-﻿{"unitName":"Atlanta","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["Atlanta","Juneau","San Diego","San Juan","Oakland","Reno","Flint","Tucson"],"instancesInClass":["atlanta","juneau","san diego","san juan","oakland","reno","flint","tucson"]}
+﻿{"unitName":"亚特兰大","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["CL-51 亚特兰大","CL-52 朱诺","CL-53 圣地亚哥","CL-54 圣胡安","CL-95 奥克兰","CL-96 里诺","CL-97 弗林特","CL-98 图森"],"instancesInClass":["atlanta","juneau","san diego","san juan","oakland","reno","flint","tucson"]}

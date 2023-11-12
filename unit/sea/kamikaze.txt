@@ -1,1 +1,1 @@
-﻿{"unitName":"Kamikaze","namesInClass":["Kamikaze","Asakaze","Harukaze","Matsukaze","Hatakaze","Oite","Hayate","Asanagi","Yūnagi"],"instancesInClass":["kamikaze","asakaze","harukaze","matsukaze","hatakaze","oite","hayate","asanagi","yūnagi"]}
+﻿{"unitName":"神风","namesInClass":["神风","朝风","春风","松风","旗风","追风","疾风","朝凪","夕凪"],"instancesInClass":["kamikaze","asakaze","harukaze","matsukaze","hatakaze","oite","hayate","asanagi","yūnagi"]}

@@ -1,1 +1,1 @@
-﻿{"unitName":"Farragut","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["Farragut","Dewey","Hull","Macdonough","Worden","Dale","Monaghan","Aylwin"],"instancesInClass":["farragut","dewey","hull","mcdonough","worden","dale","monaghan","aylwin"]}
+﻿{"unitName":"法拉格特","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["DD-348 法拉格特","DD-349 杜威","DD-350 赫尔","DD-351 麦克多诺","DD-352 沃登","DD-353 戴尔","DD-354 莫纳根","DD-355 艾尔文"],"instancesInClass":["farragut","dewey","hull","mcdonough","worden","dale","monaghan","aylwin"]}

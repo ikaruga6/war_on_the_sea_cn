@@ -1,1 +1,1 @@
-﻿{"unitName":"Kamogawa Maru","weaponDescriptions":["Type 93 13.2mm Guns"]}
+﻿{"unitName":"加茂川丸","weaponDescriptions":["Type 93 13.2mm Guns"]}

@@ -1,1 +1,1 @@
-﻿{"unitName":"Shiratsuyu","namesInClass":["Shiratsuyu","Shigure","Murasame","Yūdachi","Harusame","Samidare","Umikaze","Yamakaze","Kawakaze","Suzukaze"],"instancesInClass":["shiratsuyu","shigure","murasame","yudachi","harusame","samidare","umikaze","yamakaze","kawakaze","suzukaze"]}
+﻿{"unitName":"白露","namesInClass":["白露","时雨","村雨","夕立","春雨","五月雨","海风","山风","江风","凉风"],"instancesInClass":["shiratsuyu","shigure","murasame","yudachi","harusame","samidare","umikaze","yamakaze","kawakaze","suzukaze"]}

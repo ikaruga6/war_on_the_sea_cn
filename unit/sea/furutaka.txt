@@ -1,1 +1,1 @@
-﻿{"unitName":"Furutaka","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["Furutaka","Kako"],"instancesInClass":["furutaka","kako"]}
+﻿{"unitName":"古鹰","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["古鹰","加古"],"instancesInClass":["furutaka","kako"]}

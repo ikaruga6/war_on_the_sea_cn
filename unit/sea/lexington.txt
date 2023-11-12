@@ -1,1 +1,1 @@
-﻿{"unitName":"Lexington","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["Lexington","Saratoga"],"instancesInClass":["lexington","saratoga"]}
+﻿{"unitName":"列克星敦","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["CV-2 列克星敦","CV-3 萨拉托加"],"instancesInClass":["lexington","saratoga"]}

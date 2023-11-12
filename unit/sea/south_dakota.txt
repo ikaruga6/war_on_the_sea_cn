@@ -1,1 +1,1 @@
-﻿{"unitName":"South Dakota","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["South Dakota","Indiana","Massachusetts","Alabama"],"instancesInClass":["south dakota","indiana","massachusetts","alabama"]}
+﻿{"unitName":"南达科他","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["BB-57 南达科他","BB-58 印第安纳","BB-59 马萨诸塞","BB-60 亚拉巴马"],"instancesInClass":["south dakota","indiana","massachusetts","alabama"]}

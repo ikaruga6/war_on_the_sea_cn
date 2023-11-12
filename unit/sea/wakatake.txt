@@ -1,1 +1,1 @@
-﻿{"unitName":"Wakatake","namesInClass":["Wakatake","Kuretake","Sanae","Sawarabi","Asagao","Yūgao","Fuyō","Karukaya"],"instancesInClass":["wakatake","kuretake","sanae","sawarabi","asagao","yugao","fuyo","karukaya"]}
+﻿{"unitName":"若竹","namesInClass":["若竹","吴竹","早苗","早蕨","朝颜","夕颜","芙蓉","刈萱"],"instancesInClass":["wakatake","kuretake","sanae","sawarabi","asagao","yugao","fuyo","karukaya"]}

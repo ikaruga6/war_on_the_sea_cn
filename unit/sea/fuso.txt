@@ -1,1 +1,1 @@
-﻿{"unitName":"Fuso","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["Fusō","Yamashiro"],"instancesInClass":["fuso","yamashiro"]}
+﻿{"unitName":"扶桑","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["扶桑","山城"],"instancesInClass":["fuso","yamashiro"]}

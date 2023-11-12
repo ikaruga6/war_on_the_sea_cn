@@ -1,1 +1,1 @@
-﻿{"unitName":"Cimarron","weaponDescriptions":["20mm Oerlikon Guns"]}
+﻿{"unitName":"西马龙","weaponDescriptions":["20mm Oerlikon Guns"]}

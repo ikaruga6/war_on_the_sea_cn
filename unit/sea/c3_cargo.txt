@@ -1,1 +1,1 @@
-﻿{"unitName":"Type C3","weaponDescriptions":["20mm Oerlikon Guns"]}
+﻿{"unitName":"自由轮C3","weaponDescriptions":["20mm Oerlikon Guns"]}

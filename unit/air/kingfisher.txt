@@ -1,1 +1,1 @@
-﻿{"unitName":"Kingfisher","weaponDescriptions":["Guns|2x Machine Gun"],"payloadDisplayNames":["None"],"payloadIndexes":["-1"],"endurance":[1]}
+﻿{"unitName":"翠鸟","weaponDescriptions":["机枪|2x 机枪"],"payloadDisplayNames":["None"],"payloadIndexes":["-1"],"endurance":[1]}

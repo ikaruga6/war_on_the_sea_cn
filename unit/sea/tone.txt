@@ -1,1 +1,1 @@
-﻿{"unitName":"Tone","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["Tone","Chikuma"],"instancesInClass":["tone","chikuma"]}
+﻿{"unitName":"利根","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["利根","筑摩"],"instancesInClass":["tone","chikuma"]}

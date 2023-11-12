@@ -1,1 +1,1 @@
-﻿{"unitName":"Akatsuki","namesInClass":["Akatsuki","Hibiki","Ikazuchi","Inazuma"],"instancesInClass":["akatsuki","hibiki","ikazuchi","inazuma"]}
+﻿{"unitName":"晓","namesInClass":["晓","响","雷","电"],"instancesInClass":["akatsuki","hibiki","ikazuchi","inazuma"]}

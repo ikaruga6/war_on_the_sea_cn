@@ -1,1 +1,1 @@
-﻿{"unitName":"Pensacola","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["Pensacola","Salt Lake City"],"instancesInClass":["pensacola","salt lake city"]}
+﻿{"unitName":"彭萨科拉","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["CA-24 彭萨科拉","CA-25 盐湖城"],"instancesInClass":["pensacola","salt lake city"]}

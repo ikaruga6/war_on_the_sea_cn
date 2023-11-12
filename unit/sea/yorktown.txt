@@ -1,1 +1,1 @@
-﻿{"unitName":"Yorktown","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["Yorktown","Enterprise","Hornet"],"instancesInClass":["yorktown","enterprise","hornet"]}
+﻿{"unitName":"约克城","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["CV-5 约克城","CV-6 企业","CV-8 大黄蜂"],"instancesInClass":["yorktown","enterprise","hornet"]}

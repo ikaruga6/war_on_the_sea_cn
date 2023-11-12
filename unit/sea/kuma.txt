@@ -1,1 +1,1 @@
-﻿{"unitName":"Kuma","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["Kuma","Tama","Kitakami","Ōi","Kiso"],"instancesInClass":["kuma","tama","kitakami","oi","kiso"]}
+﻿{"unitName":"球磨","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["球磨","多摩","北上","大井","木曾"],"instancesInClass":["kuma","tama","kitakami","oi","kiso"]}

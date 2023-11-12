@@ -1,1 +1,1 @@
-﻿{"unitName":"Wasp","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["Wasp"],"instancesInClass":["wasp"]}
+﻿{"unitName":"胡蜂","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["CV-7 胡蜂"],"instancesInClass":["wasp"]}

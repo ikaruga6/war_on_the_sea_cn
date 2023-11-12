@@ -1,1 +1,1 @@
-﻿{"unitName":"Wichita","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["Wichita"],"instancesInClass":["wichita"]}
+﻿{"unitName":"威奇塔","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["CA-45 威奇塔"],"instancesInClass":["wichita"]}

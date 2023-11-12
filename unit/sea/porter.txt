@@ -1,1 +1,1 @@
-﻿{"unitName":"Porter","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["Porter","Selfridge","McDougal","Winslow","Phelps","Clark","Moffett","Balch"],"instancesInClass":["porter","selfridge","mcdougal","winslow","phelps","clark","moffett","balch"]}
+﻿{"unitName":"波特","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["DD-356 波特","DD-357 塞弗里奇","DD-358 麦道加","DD-359 温斯洛","DD-360 菲尔普斯","DD-361 克拉克","DD-362 莫菲特","DD-363 巴区"],"instancesInClass":["porter","selfridge","mcdougal","winslow","phelps","clark","moffett","balch"]}

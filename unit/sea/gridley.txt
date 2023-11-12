@@ -1,1 +1,1 @@
-﻿{"unitName":"Gridley","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["Gridley","Craven","McCall","Maury"],"instancesInClass":["gridley","craven","mccall","maury"]}
+﻿{"unitName":"格里德利","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["DD-380 格里德利","DD-382 克雷文","DD-400 麦哥","DD-401 莫雷"],"instancesInClass":["gridley","craven","mccall","maury"]}

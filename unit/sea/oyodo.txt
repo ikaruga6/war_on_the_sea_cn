@@ -1,1 +1,1 @@
-﻿{"unitName":"Oyodo","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["Oyodo"],"instancesInClass":["Oyodo"]}
+﻿{"unitName":"大淀","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["大淀"],"instancesInClass":["Oyodo"]}

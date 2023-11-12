@@ -1,1 +1,1 @@
-﻿{"unitName":"Ise","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["Ise","Hyūga"],"instancesInClass":["ise","hyuga"]}
+﻿{"unitName":"伊势","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["伊势","日向"],"instancesInClass":["ise","hyuga"]}

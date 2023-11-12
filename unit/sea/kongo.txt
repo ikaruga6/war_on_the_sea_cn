@@ -1,1 +1,1 @@
-﻿{"unitName":"Kongō","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["Kongō","Hiei","Kirishima","Haruna"],"instancesInClass":["kongo","hiei","kirishima","haruna"]}
+﻿{"unitName":"金刚","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["金刚","比叡","雾岛","榛名"],"instancesInClass":["kongo","hiei","kirishima","haruna"]}

@@ -1,1 +1,1 @@
-﻿{"unitName":"Hatsuharu","namesInClass":["Hatsuharu","Nenohi","Wakaba","Hatsushimo","Ariake","Yūgure"],"instancesInClass":["hatsuharu","nenohi","wakaba","hatsushimo","ariake","yūgure"]}
+﻿{"unitName":"初春","namesInClass":["初春","子日","若叶","初霜","有明","夕暮"],"instancesInClass":["hatsuharu","nenohi","wakaba","hatsushimo","ariake","yūgure"]}

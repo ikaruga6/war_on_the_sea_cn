@@ -1,1 +1,1 @@
-﻿{"unitName":"Wildcat","weaponDescriptions":["Guns|6x Machine Gun"],"payloadDisplayNames":["None"],"payloadIndexes":["-1"],"endurance":[1]}
+﻿{"unitName":"野猫","weaponDescriptions":["机枪|6x 机枪"],"payloadDisplayNames":["None"],"payloadIndexes":["-1"],"endurance":[1]}

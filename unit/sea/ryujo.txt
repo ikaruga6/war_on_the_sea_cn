@@ -1,1 +1,1 @@
-﻿{"unitName":"Ryūjō","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["Ryūjō"],"instancesInClass":["ryujo"]}
+﻿{"unitName":"龙骧","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["龙骧"],"instancesInClass":["ryujo"]}
