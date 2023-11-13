@@ -1,24 +1,24 @@
 ﻿
-<b><size=18>OPERATION WATCHTOWER</size></b>
+<b><size=18>瞭望塔行动</size></b>
 
-<b>August 7th 1942</b>
-Intelligence reports indicate enemy troops have landed on <color=#caa809>GUADALCANAL</color> and begun construction of an airfield.
-Once finished, long range bombers will be free to attack Allied supply lines between America and Australia and provide air cover for the Imperial Japanese Navy to operate farther south.
+<b>1942年8月7日</b>
+情报显示日军已在 <color=#caa809>瓜达尔卡纳尔</color> 登陆并开始建造机场。
+一旦建成，陆基轰炸机将可以自由地攻击美国和澳大利亚之间的盟军补给线，并为日本海军在更南端的行动提供空中掩护。
 
-Using <color=#caa809>NEW HEBRIDES</color> as a forward base, your orders are to take back <color=#caa809>GUADALCANAL</color>, build a major airfield there and clear the neighbouring islands of any hostile forces.
+使用 <color=#caa809>新赫布里底</color> 作为前进基地，您的任务是夺回 <color=#caa809>瓜达尔卡纳尔</color>，并在那建造一个主要机场，并清除邻近岛屿上的任何日军势力。
 
 
-You must:
+作战目标:
 
-1) Build a rank 5 airfield on <color=#caa809>GUADALCANAL</color>
+1) 在 <color=#caa809>瓜达尔卡纳尔</color> 建在一个5级的机场
 
-2) Take control of:
-   - <color=#caa809>GUADALCANAL</color>
-   - <color=#caa809>FLORIDA ISLANDS</color>
+2) 控制以下地点:
+   - <color=#caa809>瓜达尔卡纳尔</color>
+   - <color=#caa809>佛罗里达群岛</color>
 
-3) Maintain control of:
-   - <color=#caa809>PORT MORESBY</color>
-   - <color=#caa809>MILNE BAY</color>
-   - <color=#caa809>RENNELL ISLAND</color>
-   - <color=#caa809>SANTA CRUZ ISLANDS</color>
-   - <color=#caa809>MALAITA</color>
+3) 不能失去以下地点:
+   - <color=#caa809>莫尔斯比港</color>
+   - <color=#caa809>米尔恩湾</color>
+   - <color=#caa809>拉纳尔岛</color>
+   - <color=#caa809>圣克鲁斯群岛</color>
+   - <color=#caa809>马莱塔</color>

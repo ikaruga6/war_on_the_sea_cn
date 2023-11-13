@@ -1,6 +1,6 @@
-﻿Line Ahead
-Line Abreast
-Vic
-Echelon Left
-Echelon Right
-Box
+﻿单纵
+单横
+V形
+左梯队
+右梯队
+箱形

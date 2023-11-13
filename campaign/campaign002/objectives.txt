@@ -1,19 +1,19 @@
 ﻿
-<b><size=18>OPERATION SN: GUADALCANAL</size></b>
+<b><size=18>SN作战: 瓜达卡纳尔岛</size></b>
 
-<b>August 7th 1942</b>
-A small landing force of our troops have already occupied <color=#caa809>GUADALCANAL</color> and <color=#caa809>FLORIDA ISLANDS</color>.
-Preparations should be made immediately to begin construction of a large airfield on <color=#caa809>GUADALCANAL</color>.
-Once finished, long range bombers will be free to attack Allied supply lines between America and Australia and provide air cover for the Imperial Japanese Navy to operate farther south.
+<b>1942年8月7日</b>
+我们的一支小型登陆部队已经占领了 <color=#caa809>瓜达尔卡纳尔</color> 和 <color=#caa809>佛罗里达群岛</color>。
+应立即进行准备，开始在 <color=#caa809>瓜达尔卡纳尔</color>建设一个大型机场。
+一旦建成，陆基轰炸机将能够自由攻击美国和澳大利亚之间的盟军补给线，并为日本海军在更南方的地区提供空中掩护。
 
-Your orders are to build a major airfield on <color=#caa809>GUADALCANAL</color> and clear the neighbouring islands of any hostile forces.
+您的命令是在 <color=#caa809>瓜达尔卡纳尔</color> 建设一个重要的机场，并清除邻近岛屿上的所有敌军势力。
 
 
-You must:
+作战目标:
 
-1) Build a rank 5 airfield on <color=#caa809>GUADALCANAL</color>
+1) 在 <color=#caa809>瓜达尔卡纳尔</color> 建在一个5级的机场
 
-2) Maintain control of:
-   - <color=#caa809>GUADALCANAL</color>
-   - <color=#caa809>FLORIDA ISLANDS</color>
-   - <color=#caa809>MALAITA</color>
+2) 不能失去以下地点:
+   - <color=#caa809>瓜达尔卡纳尔</color>
+   - <color=#caa809>佛罗里达群岛</color>
+   - <color=#caa809>马莱塔</color>

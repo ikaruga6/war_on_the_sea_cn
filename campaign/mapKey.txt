@@ -1,4 +1,4 @@
-﻿<b><size=18>ICON COLOURS</size></b>\n\nFriendly\n\nEnemy\n\nNeutral\n\nSelected
-<b><size=18>SEA & AIR</size></b>\n\nSubmarine\n\nEscort\n\nTransport / Convoy\n\nCruiser\n\nBattleship\n\nFleet Carrier\n\nScout\n\nFighter\n\nDive Bomber\n\nTorpedo Bomber\n\nMedium Bomber\n\nHeavy Bomber
-<b><size=18>LOCATIONS</size></b>\n\nPorts & Airfields\n\nHome Port
-<b><size=18>WEATHER</size></b>\n\nCloud Icons:\nScattered\n\n\n\n\nBroken\n\n\n\n\nOvercast\n\n\n\n\n\nRain\nSnow\n\n\n\n\nStorm\nSnowstorm\n\n                             Numbers show sea state/wind speed
+﻿<b><size=18>图标颜色</size></b>\n\n我军\n\n敌军\n\n中立\n\n选中
+<b><size=18>单位</size></b>\n\n潜艇\n\n驱逐舰\n\n运输船\n\n巡洋舰\n\n战列舰\n\n航母\n\n\n侦察机\n\n战斗机\n\n俯冲轰炸机\n\n鱼雷机\n\n中型轰炸机\n\n重型轰炸机
+<b><size=18>地点</size></b>\n\n港口&机场\n\n主基地
+<b><size=18>天气</size></b>\n\n云图:\n晴天\n\n\n\n\n多云\n\n\n\n\n阴天\n\n\n\n\n\n雨天\n雪天\n\n\n\n\n暴雨\n暴风雪\n\n\n\n                             海况/风速由数字显示

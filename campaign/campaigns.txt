@@ -1,2 +1,2 @@
-﻿campaign001=Operation Watchtower=7,8,1942=Control the Allies to expel all enemy troops from the southern Solomon Islands, build an airfield on Guadalcanal and prevent any further Japanese expansion to the south.
-campaign002=Battle of Guadalcanal=7,8,1942=As Imperial Japan, complete construction of an airfield on Guadalcanal and ensure the Allies gain no foothold in the southern Solomon Islands.
+﻿campaign001=瞭望塔行动=7,8,1942=控制盟军将所有敌军驱逐出所罗门群岛南部，在瓜达尔卡纳尔岛建造机场并阻止日本进一步向南部扩张。
+campaign002=瓜岛战役=7,8,1942=作为日军，完成在瓜达尔卡纳尔岛机场的修建，并确保盟军在所罗门群岛南部无法立足。

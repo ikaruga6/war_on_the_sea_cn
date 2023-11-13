@@ -1,6 +1,6 @@
-﻿Line Ahead
-Line Abreast
-2 Column Left
-2 Column Right
-3 Column
-Circular
+﻿单纵
+单横
+左双纵
+右双纵
+三纵
+轮形
